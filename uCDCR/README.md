@@ -16,6 +16,7 @@ size_categories:
 
 ## Dataset Details
 
+
 ### Dataset Description
 
 Work in Natural Language Understanding increasingly relies on the ability to identify and track entities and events across large, heterogeneous text collections. This task, known as cross-document coreference resolution (CDCR), has a wide range of downstream applications, including multi-document summarization, information retrieval, and knowledge base population.
@@ -29,13 +30,31 @@ We further provide a comprehensive characterization of uCDCR using measures of l
 ### Dataset Sources
 
 - **Repository:** https://github.com/anastasia-zhukova/uCDCR
-- **Paper:** TBD
-
+- **Paper:** Zhukova, A., Ruas, T., Wahle, J. P., & Gipp, B. (2026). Piecing together cross-document coreference resolution datasets: Systematic dataset analysis and unification. Paper accepted for presentation at LREC 2026. https://arxiv.org/abs/2603.00621
 
 
 ## Dataset Structure
 
-Each folder contains the parsed original dataset with two ```*_mentions.json``` files located in train/val/test folders, i.e., for event and entities. Each dataset also has a concatenated version of these mention in one parquet file per dataset and, if previously publicly released, a CoNLL-like parquet file of the tokenized documents. 
+
+| Dataset        | Topics | Subtopics |  Docs | Tokens  | Tokens/doc |      Context | Chains | Mentions | Singletons | Mentions/doc |
+|----------------|-------:|----------:|------:|--------:|------------:|-------------:|-------:|---------:|-----------:|-------------:|
+| CD2CR          |      1 |       264 |   528 |     86K |         164 |          153 |   5222 |     7597 |       4496 |         14.4 |
+| CEREC_exp      |      1 |        77 |   456 |     62K |         137 |          152 |   1475 |     7080 |        468 |         15.5 |
+| ECB+           |     43 |        86 |   976 |    628K |         643 |          149 |   4952 |    15051 |       3445 |         15.4 |
+| ECB+METAm      |     18 |        36 |   402 |    184K |         459 |          161 |   2095 |     6348 |       1481 |         15.8 |
+| FCC-T          |      1 |       183 |   428 |    355K |         829 |          214 |    469 |     3561 |        254 |          8.3 |
+| GVC            |      1 |       241 |   510 |    185K |         364 |          183 |   1679 |     7284 |        635 |         14.3 |
+| HyperCoref_exp |     35 |       324 | 40938 |     29M |         727 |          184 |  13102 |    60401 |       5869 |          1.5 |
+| MEANTIME_eng   |      4 |       120 |   120 |     53K |         442 |          181 |   2938 |     6506 |       2270 |         54.2 |
+| NewsWCL50r     |     10 |        10 |    50 |     50K |         992 |          223 |    433 |     6531 |        102 |        130.6 |
+| NIdent_en-cd   |      1 |         5 |    93 |     50K |         541 |          212 |   2463 |    12988 |       1275 |        139.7 |
+| NP4E_cd        |      1 |         5 |    94 |     51K |         545 |          209 |    667 |     6559 |          0 |         69.8 |
+| WEC-Eng        |     18 |      7370 | 37129 |   5054K |         136 |          149 |   7597 |    43672 |        865 |          1.2 |
+| uCDCR          |    115 |      8680 | 81229 |     36M |        498* |         181* |  43092 |   183578 |      21160 |        40.1* |
+
+Astrix(*) means average value. 
+
+Each folder contains the parsed original dataset with two ```**_mentions.json``` files located in train/val/test folders, i.e., for event and entities. Each dataset also has a concatenated version of these mention in one parquet file per dataset and, if previously publicly released, a CoNLL-like parquet file of the tokenized documents. 
 
 ```
 val
@@ -53,10 +72,10 @@ val
 *all_documents.parquet
 all_mentions.parquet
 ```
-
+Astrix(*) means that this file is not available for some datasets. 
 
 ### Dataset format
-(1) ```*_mentions.json```: 
+(1) ```**_mentions.json```: 
 The format is adapted and extended from [WEC-Eng](https://huggingface.co/datasets/Intel/WEC-Eng) and from the mention format used by [Barhom et al. 2019](https://github.com/shanybar/event_entity_coref_ecb_plus/tree/master/data/interim/cybulska_setup). 
 
 To extract some mentions' attributes, we parse document sentences by spaCy. To extract a mention head, we align each mention 
