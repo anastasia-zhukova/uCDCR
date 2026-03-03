@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE markables SYSTEM "markables.dtd">
+<markables xmlns="www.eml.org/NameSpaces/section">
+<markable id="markable_2" span="word_1..word_8" mmax_level="section"/>
+<markable id="markable_5" span="word_9..word_16" mmax_level="section"/>
+<markable id="markable_7" span="word_17..word_18" mmax_level="section"/>
+<markable id="markable_9" span="word_19..word_52" mmax_level="section"/>
+<markable id="markable_11" span="word_53..word_84" mmax_level="section"/>
+<markable id="markable_13" span="word_85..word_110" mmax_level="section"/>
+<markable id="markable_15" span="word_111..word_131" mmax_level="section"/>
+<markable id="markable_17" span="word_132..word_170" mmax_level="section"/>
+<markable id="markable_19" span="word_171..word_198" mmax_level="section"/>
+<markable id="markable_21" span="word_199..word_227" mmax_level="section"/>
+<markable id="markable_23" span="word_228..word_266" mmax_level="section"/>
+<markable id="markable_25" span="word_267..word_285" mmax_level="section"/>
+<markable id="markable_27" span="word_286..word_346" mmax_level="section"/>
+<markable id="markable_29" span="word_347..word_368" mmax_level="section"/>
+<markable id="markable_32" span="word_369..word_414" mmax_level="section"/>
+<markable id="markable_34" span="word_415..word_453" mmax_level="section"/>
+<markable id="markable_36" span="word_454..word_474" mmax_level="section"/>
+<markable id="markable_39" span="word_475..word_513" mmax_level="section"/>
+<markable id="markable_41" span="word_514..word_544" mmax_level="section"/>
+<markable id="markable_43" span="word_545..word_584" mmax_level="section"/>
+<markable id="markable_45" span="word_585..word_611" mmax_level="section"/>
+<markable id="markable_48" span="word_612..word_654" mmax_level="section"/>
+<markable id="markable_50" span="word_655..word_676" mmax_level="section"/>
+<markable id="markable_52" span="word_677..word_705" mmax_level="section"/>
+<markable id="markable_55" span="word_706..word_720" mmax_level="section"/>
+<markable id="markable_57" span="word_721..word_738" mmax_level="section"/>
+<markable id="markable_60" span="word_739..word_791" mmax_level="section"/>
+</markables>

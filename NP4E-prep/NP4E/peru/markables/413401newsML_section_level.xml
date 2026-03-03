@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE markables SYSTEM "markables.dtd">
+<markables xmlns="www.eml.org/NameSpaces/section">
+<markable id="markable_2" span="word_1..word_12" mmax_level="section"/>
+<markable id="markable_5" span="word_13..word_24" mmax_level="section"/>
+<markable id="markable_7" span="word_25..word_26" mmax_level="section"/>
+<markable id="markable_9" span="word_27..word_64" mmax_level="section"/>
+<markable id="markable_11" span="word_65..word_95" mmax_level="section"/>
+<markable id="markable_14" span="word_96..word_122" mmax_level="section"/>
+<markable id="markable_17" span="word_123..word_153" mmax_level="section"/>
+<markable id="markable_19" span="word_154..word_202" mmax_level="section"/>
+<markable id="markable_21" span="word_203..word_223" mmax_level="section"/>
+<markable id="markable_23" span="word_224..word_249" mmax_level="section"/>
+<markable id="markable_25" span="word_250..word_290" mmax_level="section"/>
+<markable id="markable_27" span="word_291..word_311" mmax_level="section"/>
+<markable id="markable_29" span="word_312..word_343" mmax_level="section"/>
+<markable id="markable_32" span="word_344..word_384" mmax_level="section"/>
+<markable id="markable_34" span="word_385..word_431" mmax_level="section"/>
+<markable id="markable_36" span="word_432..word_466" mmax_level="section"/>
+<markable id="markable_38" span="word_467..word_487" mmax_level="section"/>
+<markable id="markable_40" span="word_488..word_519" mmax_level="section"/>
+<markable id="markable_42" span="word_520..word_540" mmax_level="section"/>
+<markable id="markable_44" span="word_541..word_582" mmax_level="section"/>
+<markable id="markable_46" span="word_583..word_617" mmax_level="section"/>
+<markable id="markable_48" span="word_618..word_655" mmax_level="section"/>
+<markable id="markable_50" span="word_656..word_681" mmax_level="section"/>
+<markable id="markable_52" span="word_682..word_708" mmax_level="section"/>
+<markable id="markable_54" span="word_709..word_745" mmax_level="section"/>
+</markables>

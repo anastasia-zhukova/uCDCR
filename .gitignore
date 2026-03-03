@@ -4,6 +4,8 @@
 
 /MEANTIME-prep/output_data/
 !MEANTIME-prep/output_data/.gitkeep
+/MEANTIME-prep/meantime_newsreader/
+/MEANTIME-prep/output_data_4languages/
 
 /NIdent-prep/NiDENT/
 !NIdent-prep/output_data/.gitkeep
@@ -11,6 +13,7 @@
 /NIdent-prep/output_data/
 
 /NewsWCL50-prep/2019_annot/
+/NewsWCL50-prep/2025_annot/topics
 /NewsWCL50-prep/output_data/
 !NewsWCL50-prep/output_data/.gitkeep
 
@@ -33,9 +36,6 @@ ECBplus-prep/__MACOSX/
 !FCC-prep/output_data_FCC-T/.gitkeep
 /FCC-prep/output_data
 !FCC-prep/output_data/.gitkeep
-
-/MEANTIME-prep/meantime_newsreader/
-/MEANTIME-prep/output_data_4languages/
 
 /WECEng-prep/WEC-Eng/
 /WECEng-prep/output_data/

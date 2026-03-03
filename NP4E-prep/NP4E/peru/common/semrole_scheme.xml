@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Mark-Christoph Mueller, European Media Lab, Heidelberg, Germany (mueller@eml.org) -->
+<annotationscheme>
+
+	<attribute id="level_semrole" name="tag" text="Semantic Role information for chunk"  type="freetext">
+		<value id="value_2000" name="tag"/>
+	</attribute>
+
+	<attribute id="level_semrole_target_lemmata" name="target_lemmata" text="Lemmata of the target predicate"  type="freetext">
+		<value id="value_2010" name="target_lemmata"/>
+	</attribute>
+
+	<attribute id="level_semrole_target" name="target" text="" type="markable_pointer" style="smartcurve" 
+		   color="blue" width="1" max_size="1" satellite_domain="semrole">
+		<value id="value_2" name="empty"/>
+		<value id="value_8" name="non_empty"/>
+	</attribute>
+
+</annotationscheme>

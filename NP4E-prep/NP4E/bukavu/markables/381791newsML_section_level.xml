@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE markables SYSTEM "markables.dtd">
+<markables xmlns="www.eml.org/NameSpaces/section">
+<markable id="markable_2" span="word_1..word_13" mmax_level="section"/>
+<markable id="markable_5" span="word_14..word_26" mmax_level="section"/>
+<markable id="markable_7" span="word_27..word_28" mmax_level="section"/>
+<markable id="markable_9" span="word_29..word_73" mmax_level="section"/>
+<markable id="markable_11" span="word_74..word_117" mmax_level="section"/>
+<markable id="markable_13" span="word_118..word_143" mmax_level="section"/>
+<markable id="markable_15" span="word_144..word_186" mmax_level="section"/>
+<markable id="markable_17" span="word_187..word_212" mmax_level="section"/>
+<markable id="markable_19" span="word_213..word_242" mmax_level="section"/>
+<markable id="markable_21" span="word_243..word_284" mmax_level="section"/>
+<markable id="markable_23" span="word_285..word_314" mmax_level="section"/>
+<markable id="markable_25" span="word_315..word_347" mmax_level="section"/>
+<markable id="markable_27" span="word_348..word_369" mmax_level="section"/>
+<markable id="markable_30" span="word_370..word_403" mmax_level="section"/>
+<markable id="markable_32" span="word_404..word_434" mmax_level="section"/>
+<markable id="markable_34" span="word_435..word_467" mmax_level="section"/>
+<markable id="markable_37" span="word_468..word_510" mmax_level="section"/>
+<markable id="markable_39" span="word_511..word_538" mmax_level="section"/>
+<markable id="markable_42" span="word_539..word_580" mmax_level="section"/>
+<markable id="markable_44" span="word_581..word_607" mmax_level="section"/>
+<markable id="markable_46" span="word_608..word_632" mmax_level="section"/>
+<markable id="markable_48" span="word_633..word_662" mmax_level="section"/>
+<markable id="markable_50" span="word_663..word_692" mmax_level="section"/>
+<markable id="markable_52" span="word_693..word_724" mmax_level="section"/>
+<markable id="markable_55" span="word_725..word_765" mmax_level="section"/>
+</markables>

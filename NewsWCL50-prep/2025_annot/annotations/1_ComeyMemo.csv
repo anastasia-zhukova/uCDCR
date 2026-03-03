@@ -1,0 +1,884 @@
+﻿Color,Document name,Code,Weight score,Segment,Author,Creation date,Comment,Document group,Area,Coverage %,Beginning,End
+●,1_L,USA\Trump,0,President Trump,maxku,07-May-18 09:22:49,,,15,0.17,1,1
+●,1_L,USA\Comey,0,former F.B.I. director James Comey,maxku,07-May-18 09:22:55,,,34,0.38,1,1
+●,1_L,RUS,0,Russia,maxku,07-May-18 09:23:16,,,6,0.07,1,1
+●,1_L,USA\Trump,0,the president,maxku,07-May-18 09:27:25,,,13,0.15,1,1
+●,1_L,Comey Memos,0,Mr. Comey's closely guarded memos,maxku,07-May-18 09:27:33,,,33,0.37,1,1
+●,1_L,USA\Comey,0,Mr. Comey,maxku,07-May-18 09:27:36,,,9,0.10,1,1
+●,1_L,USA,0,Congress,maxku,07-May-18 09:27:46,,,8,0.09,2,2
+●,1_L,USA,0,the Justice Department,maxku,07-May-18 09:27:55,,,22,0.25,2,2
+●,1_L,RUS\Putin,0,President Vladimir V. Putin of Russia,maxku,07-May-18 09:29:21,,,37,0.41,6,6
+●,1_L,RUS,0,Russia,maxku,07-May-18 09:29:25,,,6,0.07,6,6
+●,1_L,RUS,0,Russia,maxku,07-May-18 09:32:10,,,6,0.07,22,22
+●,1_L,Comey Memos\Steele dossier,0,'the hookers thing',AnZhu,24-Mar-20 10:06:31,,,19,0.21,29,29
+●,1_L,Properties\Importance\Important & Intense,0,spoke in intimate and candid terms,maxku,10-May-18 17:12:00,Trump,,34,0.38,1,1
+●,1_L,Properties\Importance\Important & Intense,0,most sensitive matters,maxku,10-May-18 17:12:50,Comey Memos,,22,0.25,1,1
+●,1_L,Properties\Other\Negative,0,salacious,maxku,10-May-18 17:14:45,Steele dossier,,9,0.10,1,1
+●,1_L,Properties\Importance\Important & Intense,0,closely guarded,maxku,10-May-18 17:16:30,Comey Memos,,15,0.17,1,1
+●,1_L,Comey Memos,0,The redacted and declassified memos — running 15 pages in total,AnZhu,24-Mar-20 12:21:26,,,63,0.71,2,2
+●,1_L,Properties\Power & Strength\Powerful & Leading,0,offer an extraordinary look,maxku,10-May-18 17:18:37,Comey Memos,,27,0.30,2,2
+●,1_L,USA\Trump,0,Mr. Trump,maxku,10-May-18 17:19:02,,,9,0.10,3,3
+●,1_L,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,seized on the memos,maxku,10-May-18 17:19:47,Trump,,19,0.21,3,3
+●,1_L,Properties\Violence & Unfair\Victim (receiving violence),0,seized on the memos,maxku,10-May-18 17:20:10,Comey,,19,0.21,3,3
+●,1_L,Properties\Law\Lawful,0,NO COLLUSION,maxku,10-May-18 17:20:41,Trump,,12,0.13,3,3
+●,1_L,Properties\Law\Lawful,0,NO OBSTRUCTION,maxku,10-May-18 17:20:46,Trump,,14,0.16,3,3
+●,1_L,Comey Memos,0,the memos,maxku,10-May-18 17:21:05,,,9,0.10,4,4
+●,1_L,USA\Trump,0,Mr. Trump,maxku,10-May-18 17:21:14,,,9,0.10,4,4
+●,1_L,USA\Comey,0,Mr. Comey,maxku,10-May-18 17:21:18,,,9,0.10,4,4
+●,1_L,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,serious judgment issues,maxku,10-May-18 17:22:25,Flynn,,23,0.26,4,4
+●,1_L,Properties\Other\Other,0,according to copies of the memos,maxku,10-May-18 17:22:49,Comey Memos,,32,0.36,4,4
+●,1_L,USA\Trump,0,the president,maxku,10-May-18 17:24:11,,,13,0.15,5,5
+●,1_L,USA\Trump,0,Mr. Trump,maxku,10-May-18 17:24:21,,,9,0.10,5,5
+●,1_L,Properties\Affection\Affection or empathy,0,congratulate,maxku,17-May-18 10:56:00,Trump,,12,0.13,5,5
+●,1_L,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,was irritated,maxku,10-May-18 17:26:28,Trump,,13,0.15,6,6
+●,1_L,Properties\Violence & Unfair\Victim (receiving violence),0,irritated at Mr. Flynn,maxku,10-May-18 17:26:41,Flynn,,22,0.25,6,6
+●,1_L,Properties\Behaviour & character\Not trustworthy,0,misleading,maxku,10-May-18 17:27:29,USA,,10,0.11,7,7
+●,1_L,USA\Comey,0,Mr. Comey,maxku,10-May-18 17:27:56,,,9,0.10,7,7
+●,1_L,USA\Trump,0,Mr. Trump,maxku,10-May-18 17:28:02,,,9,0.10,7,7
+●,1_L,Properties\Law\Lawful,0,hadn't done anything wrong,maxku,10-May-18 17:29:01,Flynn,,26,0.29,7,7
+●,1_L,USA\Trump,0,Mr. Trump,maxku,10-May-18 17:29:41,,,9,0.10,8,8
+●,1_L,Comey Memos,0,the memo,maxku,10-May-18 17:29:47,,,8,0.09,8,8
+●,1_L,Properties\Behaviour & character\Not trustworthy,0,pleaded guilty to lying,maxku,10-May-18 17:30:38,Flynn,,23,0.26,9,9
+●,1_L,USA,0,the F.B.I.,maxku,10-May-18 17:30:48,,,10,0.11,9,9
+●,1_L,USA\Comey,0,Mr. Comey,maxku,10-May-18 17:31:18,,,9,0.10,9,9
+●,1_L,Properties\Honor & patriotic values\Honor,0,pleaded guilty to lying,maxku,10-May-18 17:31:55,Flynn,,23,0.26,9,9
+●,1_L,Comey Memos,0,the memos,maxku,10-May-18 17:32:21,,,9,0.10,10,10
+●,1_L,USA\Comey,0,Mr. Comey,maxku,10-May-18 17:32:29,,,9,0.10,10,10
+●,1_L,USA,0,the Senate,maxku,10-May-18 17:32:45,,,10,0.11,10,10
+●,1_L,Properties\Importance\Important & Intense,0,evidence in a possible obstruction,maxku,10-May-18 17:33:35,Comey Memos,,34,0.38,11,11
+●,1_L,USA\Trump,0,Mr. Trump,maxku,10-May-18 17:33:55,,,9,0.10,11,11
+●,1_L,Properties\Other\Other,0,possible obstruction of justice,maxku,10-May-18 17:34:10,Trump,,31,0.35,11,11
+●,1_L,Comey Memos,0,The memos,maxku,10-May-18 17:34:26,,,9,0.10,12,12
+●,1_L,Properties\Importance\Important & Intense,0,exacting in their specificity,maxku,10-May-18 17:35:03,Comey Memos,,29,0.33,12,12
+●,1_L,Properties\Quality\Functioning,0,exacting in their specificity,maxku,10-May-18 17:35:29,Comey Memos,,29,0.33,12,12
+●,1_L,Properties\Quality\Functioning,0,precise times,maxku,10-May-18 17:36:15,Comey Memos,,13,0.15,12,12
+●,1_L,USA\Comey,0,Mr. Comey,maxku,10-May-18 17:36:07,,,9,0.10,12,12
+●,1_L,Properties\Behaviour & character\Trustworthy,0,add credibility,maxku,10-May-18 17:36:33,"Comey
+Comey Memos",,15,0.17,13,13
+●,1_L,Comey Memos,0,Mr. Comey's account of events,maxku,10-May-18 17:36:58,,,29,0.33,13,13
+●,1_L,USA\Comey,0,Mr. Comey,maxku,10-May-18 17:37:03,,,9,0.10,13,13
+●,1_L,USA\Trump,0,Mr. Trump,maxku,10-May-18 17:37:06,,,9,0.10,13,13
+●,1_L,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,has disputed,maxku,10-May-18 17:37:22,Trump,,12,0.13,13,13
+●,1_L,USA\Comey,0,Mr. Comey,maxku,10-May-18 17:37:35,,,9,0.10,13,13
+●,1_L,Properties\Behaviour & character\Trustworthy,0,notes I typed in the vehicle immediately upon exiting,maxku,10-May-18 17:38:34,Comey Memos,,53,0.59,14,14
+●,1_L,Properties\Quality\Functioning,0,notes I typed in the vehicle immediately upon exiting,maxku,10-May-18 17:38:38,Comey Memos,,53,0.59,14,14
+●,1_L,USA\Comey,0,Mr. Comey,maxku,10-May-18 17:39:02,,,9,0.10,14,14
+●,1_L,Comey Memos,0,his first memo,maxku,10-May-18 17:39:08,,,14,0.16,14,14
+●,1_L,USA,0,Congress,maxku,11-May-18 08:21:10,,,8,0.09,15,15
+●,1_L,Properties\Power & Strength\Powerful & Leading,0,willing to issue a subpoena,maxku,11-May-18 08:21:49,USA,,27,0.30,15,15
+●,1_L,USA,0,The Justice Department,maxku,11-May-18 08:22:11,,,22,0.25,16,16
+●,1_L,Properties\Power & Strength\Weak & Following,0,relented,maxku,11-May-18 08:22:27,USA,,8,0.09,16,16
+●,1_L,Comey Memos,0,unredacted versions of the memos,AnZhu,23-Mar-20 19:17:12,,,32,0.36,16,16
+●,1_L,Comey Memos,0,the memorandums,maxku,11-May-18 08:27:22,,,15,0.17,17,17
+●,1_L,USA,0,Congress,maxku,11-May-18 08:27:26,,,8,0.09,17,17
+●,1_L,Properties\Power & Strength\Weak & Following,0,not adversely impact,maxku,11-May-18 08:27:38,Comey Memos,,20,0.22,17,17
+●,1_L,USA,0,the department,maxku,11-May-18 08:28:05,,,14,0.16,17,17
+●,1_L,Properties\Other\Other,0,the unusual events,maxku,11-May-18 08:29:00,Comey Memos,,18,0.20,17,17
+●,1_L,USA,0,the executive branch,maxku,11-May-18 08:29:31,,,20,0.22,17,17
+●,1_L,Properties\Power & Strength\Powerful & Leading,0,issued a joint statement,maxku,11-May-18 08:30:05,USA-I,,24,0.27,18,18
+●,1_L,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,taking direct aim,maxku,11-May-18 08:33:28,USA-I,,17,0.19,18,18
+●,1_L,Properties\Violence & Unfair\Victim (receiving violence),0,direct aim at Mr. Comey's character and the import of the memos,maxku,11-May-18 08:34:58,"Comey
+Comey Memos",,63,0.71,18,18
+●,1_L,USA\Comey,0,Mr. Comey,maxku,11-May-18 08:34:34,,,9,0.10,18,18
+●,1_L,Comey Memos,0,the memos,maxku,11-May-18 08:34:43,,,9,0.10,18,18
+●,1_L,USA\Comey,0,Mr. Comey,maxku,11-May-18 08:35:44,,,9,0.10,18,18
+●,1_L,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,blind with biases,maxku,11-May-18 08:36:07,Comey,,17,0.19,18,18
+●,1_L,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,demonstrated bad judgment,maxku,11-May-18 08:36:19,Comey,,25,0.28,18,18
+●,1_L,USA\Comey,0,Mr. Comey,maxku,11-May-18 08:36:40,,,9,0.10,19,19
+●,1_L,Properties\Quality\Bad Quality,0,never once mentioned the most relevant fact of all,maxku,11-May-18 08:37:06,Comey,,50,0.56,19,19
+●,1_L,USA\Comey,0,a prudent law enforcement official,AnZhu,24-Mar-20 12:38:05,,,34,0.38,20,20
+●,1_L,Properties\Behaviour & character\SHOWN as Reasonable/Smart,0,prudent,maxku,11-May-18 08:39:17,Comey,,7,0.08,20,20
+●,1_L,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,alarmed by the president's behavior,maxku,11-May-18 08:39:36,Trump,,35,0.39,20,20
+●,1_L,USA\Trump,0,the president,maxku,11-May-18 08:39:50,,,13,0.15,20,20
+●,1_L,Comey Memos,0,The memos,maxku,11-May-18 08:39:55,,,9,0.10,21,21
+●,1_L,Comey Memos\RUS investigation,0,the F.B.I.'s Russia investigation,maxku,11-May-18 08:40:11,,,33,0.37,21,21
+●,1_L,USA\Trump,0,Mr. Trump,maxku,11-May-18 08:40:17,,,9,0.10,21,21
+●,1_L,Properties\Importance\Important & Intense,0,include other previously undisclosed conversations,maxku,11-May-18 08:40:44,Comey Memos,,50,0.56,21,21
+●,1_L,USA\Comey,0,Mr. Comey,maxku,11-May-18 08:41:14,,,9,0.10,22,22
+●,1_L,Comey Memos\Steele dossier,0,the salacious dossier produced by a former British spy,AnZhu,24-Mar-20 12:38:57,,,54,0.61,22,22
+●,1_L,Comey Memos\Steele dossier,0,the salacious dossier detailing Mr. Trump's ties to Russia,AnZhu,24-Mar-20 12:20:54,,,58,0.65,1,1
+●,1_L,Properties\Importance\Important & Intense,0,lays out a vast conspiracy,maxku,11-May-18 08:43:07,Steele dossier,,26,0.29,22,22
+●,1_L,RUS meddling,0,a vast conspiracy between the Trump campaign and Russia,AnZhu,24-Mar-20 10:01:17,,,55,0.62,22,22
+●,1_L,USA\Trump,0,Trump,maxku,11-May-18 08:43:58,,,5,0.06,22,22
+●,1_L,USA\Comey,0,Mr. Comey,maxku,11-May-18 08:44:06,,,9,0.10,22,22
+●,1_L,USA\Trump,0,Mr. Trump,maxku,11-May-18 08:44:10,,,9,0.10,22,22
+●,1_L,USA\Trump,0,Mr. Trump,maxku,11-May-18 08:44:17,,,9,0.10,22,22
+●,1_L,USA\Comey,0,Mr. Comey,maxku,11-May-18 08:45:18,,,9,0.10,23,23
+●,1_L,USA,0,the bureau,maxku,11-May-18 08:45:44,,,10,0.11,23,23
+●,1_L,Properties\Importance\Important & Intense,0,relevant,maxku,11-May-18 08:47:05,Steele dossier,,8,0.09,24,24
+●,1_L,USA\Comey,0,Mr. Comey,maxku,11-May-18 08:47:57,,,9,0.10,24,24
+●,1_L,USA\Trump,0,Mr. Trump,maxku,11-May-18 08:48:04,,,9,0.10,24,24
+●,1_L,Properties\Behaviour & character\Trustworthy,0,portions of the material were corroborated,maxku,11-May-18 08:48:55,Steele dossier,,42,0.47,24,24
+●,1_L,Properties\Behaviour & character\Trustworthy,0,consistent with and corroborative of other intelligence,maxku,11-May-18 08:49:10,Steele dossier,,55,0.62,24,24
+●,1_L,Properties\Power & Strength\Weak & Following,0,defended his decision,maxku,11-May-18 08:49:24,Comey,,21,0.24,24,24
+●,1_L,USA\Comey,0,Mr. Comey,maxku,11-May-18 08:49:47,,,9,0.10,25,25
+●,1_L,USA\Comey,0,the director,maxku,11-May-18 08:49:57,,,12,0.13,25,25
+●,1_L,USA,0,the F.B.I.,maxku,11-May-18 08:50:10,,,10,0.11,25,25
+●,1_L,USA\Comey,0,Mr. Comey,maxku,11-May-18 08:50:47,,,9,0.10,26,26
+●,1_L,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,inappropriate,maxku,11-May-18 08:51:26,USA,,13,0.15,26,26
+●,1_L,USA\Trump,0,Mr. Trump,maxku,11-May-18 08:52:01,,,9,0.10,27,27
+●,1_L,USA\Comey,0,Mr. Comey,maxku,11-May-18 08:52:08,,,9,0.10,27,27
+●,1_L,Comey Memos,0,memo,maxku,11-May-18 08:52:13,,,4,0.04,27,27
+●,1_L,USA\Trump,0,Mr. Trump,maxku,11-May-18 08:52:18,,,9,0.10,27,27
+●,1_L,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,questioned,maxku,11-May-18 08:52:45,Trump,,10,0.11,27,27
+●,1_L,Properties\Affection\Refusal,0,questioned Mr. Flynn's judgment,maxku,11-May-18 08:53:18,Flynn,,31,0.35,27,27
+●,1_L,USA,0,the Oval Office,maxku,11-May-18 08:53:35,,,15,0.17,28,28
+●,1_L,USA\Comey,0,Mr. Comey,maxku,11-May-18 08:53:39,,,9,0.10,28,28
+●,1_L,USA\Trump,0,Mr. Trump,maxku,11-May-18 08:53:44,,,9,0.10,28,28
+●,1_L,Comey Memos\Steele dossier,0,the dossier,maxku,11-May-18 08:53:53,,,11,0.12,28,28
+●,1_L,USA\Comey,0,The two men,maxku,11-May-18 08:54:11,,,11,0.12,28,28
+●,1_L,USA\Trump,0,The president,maxku,11-May-18 08:54:18,,,13,0.15,29,29
+●,1_L,Properties\Behaviour & character\Not trustworthy,0,nonsense,maxku,11-May-18 08:54:27,Steele dossier,,8,0.09,29,29
+●,1_L,RUS\Putin,0,Putin,maxku,11-May-18 08:54:41,,,5,0.06,29,29
+●,1_L,USA\Comey,0,Mr. Comey,maxku,11-May-18 08:54:54,,,9,0.10,29,29
+●,1_L,USA\Trump,0,Mr. Trump,maxku,11-May-18 08:55:01,,,9,0.10,29,29
+●,1_L,RUS\Putin,0,Mr. Putin,maxku,11-May-18 08:55:06,,,9,0.10,29,29
+●,1_L,Comey Memos,0,Other memos,maxku,11-May-18 08:55:14,,,11,0.12,30,30
+●,1_L,Properties\Importance\Important & Intense,0,add new details,maxku,11-May-18 08:55:22,Comey Memos,,15,0.17,30,30
+●,1_L,USA\Trump,0,Mr. Trump,maxku,11-May-18 08:55:40,,,9,0.10,30,30
+●,1_L,USA\Comey,0,Mr. Comey,maxku,11-May-18 08:55:44,,,9,0.10,30,30
+●,1_L,Properties\Affection\Affection or empathy,0,bonded,maxku,17-May-18 10:53:55,"Trump
+Comey",,6,0.07,30,30
+●,1_L,Properties\Importance\Important & Intense,0,sensitive government information,maxku,11-May-18 08:57:28,Steele dossier,,32,0.36,30,30
+●,1_L,Properties\Behaviour & character\Confident,0,eager to find leakers,maxku,11-May-18 08:57:47,Comey,,21,0.24,31,31
+●,1_L,Properties\Behaviour & character\Confident,0,would like to nail one to the door,maxku,11-May-18 08:57:57,Comey,,34,0.38,31,31
+●,1_L,USA\Comey,0,Mr. Comey,maxku,11-May-18 08:58:07,,,9,0.10,31,31
+●,1_L,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,prosecuting journalists,maxku,11-May-18 08:59:29,Comey,,23,0.26,31,31
+●,1_L,USA\Trump,0,Mr. Trump,maxku,11-May-18 08:59:41,,,9,0.10,32,32
+●,1_L,USA\Comey,0,Mr. Comey,maxku,11-May-18 08:59:46,,,9,0.10,32,32
+●,1_L,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,do about being more aggressive,maxku,11-May-18 09:00:12,"Trump
+USA",,30,0.34,32,32
+●,1_L,USA\Trump,0,Mr. Trump,maxku,11-May-18 09:00:29,,,9,0.10,33,33
+●,1_L,USA\Comey,0,Mr. Comey,maxku,11-May-18 09:00:33,,,9,0.10,33,33
+●,1_L,Properties\Affection\Refusal,0,had a problem with him,maxku,11-May-18 09:00:53,Trump,,22,0.25,33,33
+●,1_L,USA\Comey,0,Mr. Comey,maxku,11-May-18 09:01:31,,,9,0.10,34,34
+●,1_L,Properties\Behaviour & character\SHOWN as Reasonable/Smart,0,true pro,maxku,11-May-18 09:01:44,USA,,8,0.09,34,34
+●,1_L,Properties\Behaviour & character\Trustworthy,0,true pro,maxku,11-May-18 09:01:51,USA,,8,0.09,34,34
+●,1_L,USA\Trump,0,Mr. Trump,maxku,11-May-18 09:02:04,,,9,0.10,34,34
+●,1_L,USA\Trump,0,Mr. Trump,maxku,11-May-18 09:02:09,,,9,0.10,35,35
+●,1_L,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,lavish criticism,maxku,11-May-18 09:02:17,Trump,,16,0.18,35,35
+●,1_L,Properties\Violence & Unfair\Victim (receiving violence),0,lavish criticism,maxku,11-May-18 09:02:25,USA,,16,0.18,35,35
+●,1_L,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,biased,maxku,11-May-18 09:02:44,USA,,6,0.07,35,35
+●,1_L,Properties\Affection\Refusal,0,biased against him,maxku,11-May-18 09:02:53,Trump,,18,0.20,35,35
+●,1_L,USA,0,the F.B.I.,maxku,11-May-18 09:03:08,,,10,0.11,36,36
+●,1_L,USA\Trump,0,that Mr. Trump,maxku,11-May-18 09:04:10,,,14,0.16,37,37
+●,1_L,Properties\Power & Strength\Powerful & Leading,0,eager to discuss,maxku,11-May-18 09:04:31,"Trump
+USA",,16,0.18,37,37
+●,1_L,USA\Comey,0,Mr. Comey,maxku,11-May-18 09:04:45,,,9,0.10,37,37
+●,1_L,Comey Memos\RUS investigation,0,another consequential F.B.I. investigation,maxku,11-May-18 09:04:56,,,42,0.47,37,37
+●,1_L,USA\Comey,0,Mr. Comey,maxku,11-May-18 09:05:34,,,9,0.10,37,37
+●,1_L,Properties\Power & Strength\Powerful & Leading,0,pressed him for an explanation,maxku,11-May-18 09:06:06,USA,,30,0.34,37,37
+●,1_L,USA\Comey,0,Mr. Comey,maxku,11-May-18 09:07:07,,,9,0.10,38,38
+●,1_L,Properties\Law\Lawful,0,wasn't my fault,maxku,11-May-18 09:07:50,Comey,,15,0.17,38,38
+●,1_L,USA\Flynn,0,"Michael T. Flynn, the president's first national security adviser,",AnZhu,23-Mar-20 18:59:07,,,66,0.74,1,1
+●,1_L,USA\Flynn,0,Mr. Flynn,maxku,17-May-18 11:10:51,,,9,0.10,4,4
+●,1_L,USA\Flynn,0,Mr. Flynn,maxku,17-May-18 11:11:26,,,9,0.10,5,5
+●,1_L,USA\Flynn,0,Mr. Flynn,maxku,17-May-18 11:11:41,,,9,0.10,6,6
+●,1_L,USA\Flynn,0,Mr. Flynn,maxku,17-May-18 11:12:07,,,9,0.10,7,7
+●,1_L,USA\Flynn,0,Mr. Flynn,maxku,17-May-18 11:12:27,,,9,0.10,7,7
+●,1_L,USA\Flynn,0,Flynn,maxku,17-May-18 11:12:49,,,5,0.06,8,8
+●,1_L,USA\Flynn,0,Mr. Flynn,maxku,17-May-18 11:13:02,,,9,0.10,9,9
+●,1_L,USA\Flynn,0,Mr. Flynn,maxku,17-May-18 11:13:50,,,9,0.10,13,13
+●,1_L,USA\Flynn,0,Mr. Flynn,maxku,17-May-18 11:14:16,,,9,0.10,25,25
+●,1_L,USA\Flynn,0,Michael T. Flynn,maxku,17-May-18 11:14:28,,,16,0.18,27,27
+●,1_L,USA\Flynn,0,Mr. Flynn,maxku,17-May-18 11:14:54,,,9,0.10,27,27
+●,1_L,USA\Flynn,0,the former national security adviser,maxku,17-May-18 11:19:05,,,36,0.40,27,27
+●,1_L,Properties\Other\Other,0,a supposed encounter,felix,18-Dec-18 19:04:29,Trump,,20,0.22,22,22
+●,1_L,Properties\Other\Other,0,reportedly lying to investigators,felix,18-Dec-18 19:05:48,USA,,33,0.37,36,36
+●,1_L,Comey Memos,0,the documents,AnZhu,04-Jan-19 18:21:30,,,13,0.15,20,20
+●,1_L,Comey Memos,0,documents,AnZhu,04-Jan-19 18:22:28,,,9,0.10,18,18
+●,1_L,RUS meddling,0,NO COLLUSION,AnZhu,10-Jan-19 21:12:38,,,12,0.13,3,3
+●,1_L,Comey Memos,0,the memos,AnZhu,10-Jan-19 21:21:43,,,9,0.10,3,3
+●,1_L,Comey Memos,0,the memos,AnZhu,10-Jan-19 21:22:03,,,9,0.10,15,15
+●,1_L,Comey Memos,0,the previous limited disclosure,AnZhu,10-Jan-19 21:38:29,,,31,0.35,17,17
+●,1_L,Comey Memos\Interactions with Trump,0,one previously undisclosed exchange,AnZhu,10-Jan-19 21:39:05,,,35,0.39,4,4
+●,1_L,Comey Memos\Interactions with Trump,0,well-known exchanges,AnZhu,10-Jan-19 21:39:25,,,20,0.22,30,30
+●,1_L,Comey Memos\Interactions with Trump,0,That exchange,AnZhu,10-Jan-19 21:40:02,,,13,0.15,10,10
+●,1_L,Comey Memos\Interactions with Trump,0,that conversations,AnZhu,10-Jan-19 21:41:32,,,18,0.20,12,12
+●,1_L,Comey Memos\Interactions with Trump,0,other previously undisclosed conversations,AnZhu,10-Jan-19 21:41:42,,,42,0.47,21,21
+●,1_L,Comey Memos\Interactions with Trump,0,the private interactions among leaders,AnZhu,23-Mar-20 19:00:20,,,38,0.43,2,2
+●,1_L,Comey Memos\Flynn investigation,0,the investigation into Michael T. Flynn,AnZhu,10-Jan-19 21:48:34,,,39,0.44,1,1
+●,1_L,Comey Memos\Flynn investigation,0,the investigation,AnZhu,10-Jan-19 21:49:06,,,17,0.19,9,9
+●,1_L,Comey Memos\Flynn investigation,0,an investigation into Mr. Flynn,AnZhu,10-Jan-19 21:49:13,,,31,0.35,13,13
+●,1_L,Comey Memos\Flynn investigation,0,any ongoing investigation,AnZhu,10-Jan-19 21:49:36,,,25,0.28,17,17
+●,1_L,Comey Memos\RUS investigation,0,any ongoing investigation,AnZhu,10-Jan-19 21:49:38,,,25,0.28,17,17
+●,1_L,Comey Memos\RUS investigation,0,his investigation,AnZhu,10-Jan-19 21:49:52,,,17,0.19,19,19
+●,1_L,Comey Memos\Flynn investigation,0,his investigation,AnZhu,10-Jan-19 21:49:54,,,17,0.19,19,19
+●,1_L,Comey Memos\Flynn investigation,0,the Flynn investigation,AnZhu,10-Jan-19 21:50:24,,,23,0.26,30,30
+●,1_L,Comey Memos\Flynn investigation,0,serious judgment issues,AnZhu,10-Jan-19 21:54:02,,,23,0.26,4,4
+●,1_L,Comey Memos\Flynn investigation,0,Mr. Flynn's judgment,AnZhu,10-Jan-19 21:54:23,,,20,0.22,27,27
+●,1_L,Comey Memos\Flynn investigation,0,his inquiry,AnZhu,10-Jan-19 21:54:49,,,11,0.12,7,7
+●,1_L,Comey Memos\Interactions with Trump,0,a series of phone calls and encounters between the two men,AnZhu,24-Mar-20 12:21:46,,,58,0.65,2,2
+●,1_L,Comey Memos\Steele dossier,0,the allegations,AnZhu,10-Jan-19 22:52:21,,,15,0.17,23,23
+●,1_L,Comey Memos\Steele dossier,0,consorted with Russian prostitutes,AnZhu,10-Jan-19 22:55:56,,,34,0.38,28,28
+●,1_L,USA\Comey,0,Mr. Comey,AnZhu,23-Mar-20 19:00:03,,,9,0.10,2,2
+●,1_L,Comey Memos,0,"""NO COLLUSION and NO OBSTRUCTION.""",AnZhu,23-Mar-20 19:00:49,,,34,0.38,3,3
+●,1_L,USA\Flynn,0,The guy,AnZhu,23-Mar-20 19:01:13,,,7,0.08,4,4
+●,1_L,USA\Trump,0,Mr. Trump,AnZhu,23-Mar-20 19:01:24,,,9,0.10,5,5
+●,1_L,USA\Trump,0,Mr. Trump,AnZhu,23-Mar-20 19:02:02,,,9,0.10,6,6
+●,1_L,USA\Pence,0,Vice President Mike Pence,AnZhu,23-Mar-20 19:02:27,,,25,0.28,7,7
+●,1_L,USA,0,the White House,AnZhu,23-Mar-20 19:02:58,,,15,0.17,7,7
+●,1_L,RUS\RUS-I,0,the Russians,AnZhu,23-Mar-20 19:03:12,,,12,0.13,7,7
+●,1_L,Comey Memos\Flynn investigation,0,pleaded guilty to lying to the F.B.I.,AnZhu,23-Mar-20 19:04:06,,,37,0.41,9,9
+●,1_L,USA\Mueller,0,"the special counsel, Robert S. Mueller III.",AnZhu,23-Mar-20 19:05:17,,,43,0.48,11,11
+●,1_L,USA\Mueller,0,the special counsel,AnZhu,23-Mar-20 19:05:24,,,19,0.21,9,9
+●,1_L,Comey Memos,0,notes I typed in the vehicle,AnZhu,23-Mar-20 19:14:49,,,28,0.31,14,14
+●,1_L,USA\Mueller,0,the F.B.I.'s chief counsel,AnZhu,23-Mar-20 19:15:21,,,26,0.29,14,14
+●,1_L,USA\USA-I,0,chief of staff,AnZhu,23-Mar-20 19:15:26,,,14,0.16,14,14
+●,1_L,USA\USA-I,0,deputy director,AnZhu,23-Mar-20 19:15:31,,,15,0.17,14,14
+●,1_L,USA,0,the Justice Department,AnZhu,23-Mar-20 19:16:10,,,22,0.25,15,15
+●,1_L,USA\Rosenstein,0,"the deputy attorney general, Rod J. Rosenstein",AnZhu,23-Mar-20 19:16:46,,,46,0.52,15,15
+●,1_L,USA\USA-I,0,lawmakers,AnZhu,23-Mar-20 19:17:21,,,9,0.10,17,17
+●,1_L,USA\Boyd,0,"Stephen E. Boyd, an assistant attorney general",AnZhu,23-Mar-20 19:17:57,,,46,0.52,17,17
+●,1_L,USA\Republicans\Goodlatte,0,Representative Robert W. Goodlatte of the Judiciary Committee,AnZhu,23-Mar-20 19:19:08,,,61,0.68,18,18
+●,1_L,USA\Republicans\Nunes,0,Representative Devin Nunes of the Intelligence Committee,AnZhu,23-Mar-20 19:19:53,,,56,0.63,18,18
+●,1_L,USA\Republicans\Gowdy,0,Representative Trey Gowdy of the Oversight Committee,AnZhu,23-Mar-20 19:20:11,,,52,0.58,18,18
+●,1_L,USA\USA-I,0,Select lawmakers,AnZhu,24-Mar-20 09:51:34,,,16,0.18,15,15
+●,1_L,USA\Comey,0,"""blind with biases""",AnZhu,24-Mar-20 09:53:28,,,19,0.21,18,18
+●,1_L,Comey Memos,0,"set dining room scenes, discuss height requirements, describe the multiple times he felt complimented and myriad other extraneous facts",AnZhu,24-Mar-20 09:56:42,,,135,1.51,19,19
+●,1_L,USA\Democrats,0,Democrats,AnZhu,24-Mar-20 09:57:23,,,9,0.10,20,20
+●,1_L,USA\Democrats\Cummings,0,"Representative Elijah Cummings, the top Democrat on the Oversight Committee",AnZhu,24-Mar-20 09:58:08,,,75,0.84,20,20
+●,1_L,Comey Memos,0,the effort of a prudent law enforcement official alarmed by the president's behavior,AnZhu,24-Mar-20 09:58:30,,,84,0.94,20,20
+●,1_L,USA\Priebus,0,"Reince Priebus, then the White House chief of staff",AnZhu,24-Mar-20 09:59:52,,,51,0.57,22,22
+●,1_L,USA\Priebus,0,Mr. Priebus,AnZhu,24-Mar-20 10:00:06,,,11,0.12,22,22
+●,1_L,GBR\Steele,0,a former British spy,AnZhu,24-Mar-20 10:00:32,,,20,0.22,22,22
+●,1_L,Comey Memos\Steele dossier,0,the document,AnZhu,24-Mar-20 10:01:39,,,12,0.13,22,22
+●,1_L,Comey Memos\Steele dossier,0,a supposed encounter between Mr. Trump and Russian prostitutes,AnZhu,24-Mar-20 10:01:54,,,62,0.69,22,22
+●,1_L,USA\Priebus,0,Mr. Priebus,AnZhu,24-Mar-20 10:02:08,,,11,0.12,23,23
+●,1_L,Comey Memos,0,the memo,AnZhu,24-Mar-20 10:02:16,,,8,0.09,23,23
+●,1_L,USA\USA-I,0,the analysts from all three agencies,AnZhu,24-Mar-20 10:02:44,,,36,0.40,24,24
+●,1_L,Comey Memos,0,the material,AnZhu,24-Mar-20 10:03:05,,,12,0.13,24,24
+●,1_L,USA\USA-I,0,other intelligence,AnZhu,24-Mar-20 10:03:21,,,18,0.20,24,24
+●,1_L,USA\USA-I,0,other intelligence,AnZhu,24-Mar-20 10:03:40,,,18,0.20,24,24
+●,1_L,USA\Priebus,0,Mr. Priebus,AnZhu,24-Mar-20 10:03:52,,,11,0.12,25,25
+●,1_L,USA\Priebus,0,the White House chief of staff,AnZhu,24-Mar-20 10:04:30,,,30,0.34,25,25
+●,1_L,USA\Priebus,0,Mr. Priebus,AnZhu,24-Mar-20 10:04:43,,,11,0.12,26,26
+●,1_L,USA\Sessions,0,"""Sessions,""",AnZhu,24-Mar-20 10:09:07,,,11,0.12,32,32
+●,1_L,USA\Sessions,0,Attorney General Jeff Sessions,AnZhu,24-Mar-20 10:09:19,,,30,0.34,32,32
+●,1_L,USA\McCabe,0,"his deputy, Andrew G. McCabe",AnZhu,24-Mar-20 10:12:20,,,28,0.31,33,33
+●,1_L,USA\McCabe,0,Mr. McCabe,AnZhu,24-Mar-20 10:13:15,,,10,0.11,34,34
+●,1_L,USA\McCabe,0,"""true pro""",AnZhu,24-Mar-20 10:13:21,,,10,0.11,34,34
+●,1_L,USA\McCabe,0,Mr. McCabe,AnZhu,24-Mar-20 10:13:34,,,10,0.11,35,35
+●,1_L,USA\McCabe,0,biased against him,AnZhu,24-Mar-20 10:13:41,,,18,0.20,35,35
+●,1_L,USA\McCabe,0,Mr. McCabe,AnZhu,24-Mar-20 10:13:53,,,10,0.11,36,36
+●,1_L,USA\USA-I,0,the department's inspector general,AnZhu,24-Mar-20 10:14:52,,,34,0.38,36,36
+●,1_L,USA\USA-I,0,top aides,AnZhu,24-Mar-20 10:15:10,,,9,0.10,37,37
+●,1_L,USA\Democrats\Clinton,0,Hillary Clinton,AnZhu,24-Mar-20 10:16:06,,,15,0.17,33,33
+●,1_L,USA\Democrats\Clinton,0,Mrs. Clinton,AnZhu,24-Mar-20 10:16:14,,,12,0.13,37,37
+●,1_L,USA\Democrats\Clinton,0,secretary of state,AnZhu,24-Mar-20 10:16:39,,,18,0.20,37,37
+●,1_L,USA\Democrats\Clinton,0,Clinton,AnZhu,24-Mar-20 10:16:52,,,7,0.08,37,37
+●,1_L,USA\Priebus,0,Mr. Priebus,AnZhu,24-Mar-20 10:17:07,,,11,0.12,37,37
+●,1_L,USA\Democrats\Clinton,0,Mrs. Clinton,AnZhu,24-Mar-20 10:17:31,,,12,0.13,37,37
+●,1_L,USA\Democrats\Abedin,0,Huma Abedin,AnZhu,24-Mar-20 10:18:18,,,11,0.12,38,38
+●,1_L,USA\Democrats\Abedin,0,a top Clinton aide,AnZhu,24-Mar-20 10:18:25,,,18,0.20,38,38
+●,1_L,USA\Democrats\Weiner,0,Anthony Weiner,AnZhu,24-Mar-20 10:19:04,,,14,0.16,38,38
+●,1_L,USA\Democrats\Weiner,0,her husband,AnZhu,24-Mar-20 10:19:08,,,11,0.12,38,38
+●,1_L,USA\Republicans,0,The three Republican chairmen,AnZhu,24-Mar-20 11:26:38,,,29,0.33,18,18
+●,1_L,Comey Memos,0,an extraordinary look at the private interactions among leaders,AnZhu,24-Mar-20 12:22:00,,,63,0.71,2,2
+●,1_L,USA,0,government,AnZhu,24-Mar-20 12:22:09,,,10,0.11,2,2
+●,1_L,Comey Memos\Interference into RUS investigation,0,NO OBSTRUCTION,AnZhu,24-Mar-20 12:22:38,,,14,0.16,3,3
+●,1_L,Comey Memos\Interference into Flynn investigation,0,reservations about Mr. Flynn,AnZhu,24-Mar-20 12:23:03,,,28,0.31,4,4
+●,1_L,RUS\Putin,0,a prominent foreign leader,AnZhu,24-Mar-20 12:23:51,,,26,0.29,5,5
+●,1_L,RUS\Kislyak,0,a Russian ambassador,AnZhu,24-Mar-20 12:24:18,,,20,0.22,7,7
+●,1_L,Memos release,0,the release of the memorandums to Congress,AnZhu,24-Mar-20 12:33:35,,,42,0.47,17,17
+●,1_L,USA\Mueller\Investigators,0,investigators for the special counsel,AnZhu,24-Mar-20 12:34:56,,,37,0.41,9,9
+●,1_L,Memos release,0,allowed to view redacted versions of the memos,AnZhu,24-Mar-20 12:35:44,,,46,0.52,15,15
+●,1_L,Memos release,0,deliver unredacted versions of the memos,AnZhu,24-Mar-20 12:36:34,,,40,0.45,16,16
+●,1_L,Comey Memos\Interference into RUS investigation,0,Mr. Trump's views of it,AnZhu,24-Mar-20 12:38:32,,,23,0.26,21,21
+●,1_L,Comey Memos\Steele dossier,0,a vast conspiracy between the Trump campaign and Russia,AnZhu,24-Mar-20 12:39:11,,,55,0.62,22,22
+●,1_L,RUS\RUS-Misc,0,Russian prostitutes,AnZhu,24-Mar-20 12:40:14,,,19,0.21,28,28
+●,1_L,RUS\RUS-Misc,0,the most beautiful hookers,AnZhu,24-Mar-20 12:40:22,,,26,0.29,29,29
+●,1_L,RUS\RUS-Misc,0,Russian prostitutes,AnZhu,24-Mar-20 12:40:32,,,19,0.21,22,22
+●,1_L,Comey Memos\Interactions with Trump,0,the same meeting,AnZhu,24-Mar-20 12:41:59,,,16,0.18,30,30
+●,1_L,USA\Mueller\Investigators,0,investigators,AnZhu,24-Mar-20 12:42:56,,,13,0.15,36,36
+●,1_L,USA\USA-I,0,Federal prosecutors,AnZhu,24-Mar-20 12:43:24,,,19,0.21,36,36
+●,1_L,USA\Republicans,0,three House Republican committee chairmen,AnZhu,24-Mar-20 13:05:32,,,41,0.46,15,15
+●,1_LL,Comey Memos,0,The Redacted Copies Of The Comey Memos,AnZhu,24-Mar-20 12:06:27,,,38,1.16,1,1
+●,1_LL,USA\Comey,0,Comey,maxku,11-May-18 11:01:41,,,5,0.15,2,2
+●,1_LL,USA\Trump,0,Trump,maxku,11-May-18 11:01:48,,,5,0.15,2,2
+●,1_LL,Properties\Affection\Affection or empathy,0,grateful for the conversation,maxku,11-May-18 11:01:58,Comey,,29,0.89,2,2
+●,1_LL,Properties\Affection\Affection or empathy,0,said more nice things,maxku,11-May-18 11:02:09,Comey,,21,0.64,2,2
+●,1_LL,Properties\Affection\Affection or empathy,0,looks forward to working with,maxku,17-May-18 10:54:26,Comey,,29,0.89,2,2
+●,1_LL,USA,0,The Department of Justice,maxku,11-May-18 11:02:47,,,25,0.76,3,3
+●,1_LL,USA\Comey,0,the former FBI director,maxku,11-May-18 11:03:08,,,23,0.70,3,3
+●,1_LL,USA\Trump,0,newly-minted President Donald Trump,maxku,11-May-18 11:03:14,,,35,1.07,3,3
+●,1_LL,USA\Trump,0,Trump,maxku,11-May-18 11:03:30,,,5,0.15,3,3
+●,1_LL,Properties\Importance\Important & Intense,0,obsession with disproving allegations,maxku,11-May-18 11:03:44,Steele dossier,,37,1.13,3,3
+●,1_LL,Comey Memos\Steele dossier,0,the infamous Steele dossier,AnZhu,24-Mar-20 12:08:07,,,27,0.83,3,3
+●,1_LL,Properties\Other\Negative,0,infamous,maxku,17-May-18 11:21:08,Steele dossier,,8,0.24,3,3
+●,1_LL,Properties\Power & Strength\Weak & Following,0,demands for aides' loyalty,maxku,11-May-18 11:04:36,Trump,,26,0.80,3,3
+●,1_LL,Comey Memos,0,The memos,maxku,11-May-18 11:04:47,,,9,0.28,4,4
+●,1_LL,USA\Comey,0,Comey,maxku,11-May-18 11:04:58,,,5,0.15,4,4
+●,1_LL,Comey Memos,0,the seven documents,AnZhu,10-Jan-19 21:20:59,,,19,0.58,4,4
+●,1_LL,Properties\Importance\Unimportant,0,contain no notable information that Comey hasn't already discussed,maxku,11-May-18 11:06:53,Comey Memos,,66,2.02,4,4
+●,1_LL,Comey Memos,0,the memos,maxku,11-May-18 11:07:12,,,9,0.28,5,5
+●,1_LL,USA\Comey,0,the former FBI chief,maxku,11-May-18 11:07:17,,,20,0.61,5,5
+●,1_LL,USA\Trump,0,Trump,maxku,11-May-18 11:07:22,,,5,0.15,5,5
+●,1_LL,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,lack of familiarity with established channels of communication,maxku,11-May-18 11:07:39,Trump,,62,1.90,5,5
+●,1_LL,USA,0,the White House,maxku,11-May-18 11:07:50,,,15,0.46,5,5
+●,1_LL,USA,0,the Justice Department,maxku,11-May-18 11:07:54,,,22,0.67,5,5
+●,1_LL,USA\Comey,0,Comey,maxku,11-May-18 11:07:59,,,5,0.15,5,5
+●,1_LL,USA\Trump,0,Trump,maxku,11-May-18 11:08:04,,,5,0.15,5,5
+●,1_LL,USA\Comey,0,Comey,maxku,11-May-18 11:08:22,,,5,0.15,5,5
+●,1_LL,Comey Memos,0,A memo,maxku,11-May-18 11:09:05,,,6,0.18,6,6
+●,1_LL,USA\Trump,0,Trump,maxku,11-May-18 11:09:15,,,5,0.15,6,6
+●,1_LL,USA\Trump,0,the president,maxku,11-May-18 11:09:20,,,13,0.40,6,6
+●,1_LL,Properties\Behaviour & character\Confident,0,widely-reported demand for loyalty,maxku,11-May-18 11:09:35,Trump,,34,1.04,6,6
+●,1_LL,Properties\Power & Strength\Weak & Following,0,I need loyalty,maxku,11-May-18 11:11:01,Trump,,14,0.43,7,7
+●,1_LL,Properties\Behaviour & character\Trustworthy,0,he would always get honesty from me,maxku,11-May-18 11:11:16,Comey,,35,1.07,7,7
+●,1_LL,USA\Trump,0,the president,maxku,11-May-18 11:12:02,,,13,0.40,7,7
+●,1_LL,Properties\Behaviour & character\Trustworthy,0,serve the president with loyalty,maxku,11-May-18 11:12:48,Comey,,32,0.98,7,7
+●,1_LL,Properties\Honor & patriotic values\Honor,0,"loyalty to the office, the country, and the truth",maxku,11-May-18 11:13:01,Comey,,49,1.50,7,7
+●,1_LL,USA\Comey,0,Comey,maxku,11-May-18 11:13:12,,,5,0.15,8,8
+●,1_LL,USA\Trump,0,Trump,maxku,11-May-18 11:13:17,,,5,0.15,8,8
+●,1_LL,USA\Comey,0,Comey,maxku,11-May-18 11:13:21,,,5,0.15,8,8
+●,1_LL,USA,0,the FBI,maxku,11-May-18 11:13:28,,,7,0.21,8,8
+●,1_LL,USA,0,his administration,maxku,11-May-18 11:13:37,,,18,0.55,8,8
+●,1_LL,USA\Trump,0,the president,maxku,11-May-18 11:13:54,,,13,0.40,8,8
+●,1_LL,Properties\Affection\Affection or empathy,0,thought very highly of,maxku,17-May-18 10:53:21,Comey,,22,0.67,8,8
+●,1_LL,USA\Comey,0,Comey,maxku,11-May-18 11:14:36,,,5,0.15,9,9
+●,1_LL,USA\Trump,0,Trump,maxku,11-May-18 11:14:40,,,5,0.15,9,9
+●,1_LL,Properties\Affection\Refusal,0,serious reservations,maxku,11-May-18 11:14:47,USA,,20,0.61,9,9
+●,1_LL,USA\Trump,0,the President,maxku,11-May-18 11:15:02,,,13,0.40,9,9
+●,1_LL,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,serious judgment issues,maxku,11-May-18 11:15:11,USA,,23,0.70,9,9
+●,1_LL,USA\Comey,0,Comey,maxku,11-May-18 11:15:18,,,5,0.15,9,9
+●,1_LL,Comey Memos,0,Comey's memo,maxku,11-May-18 11:15:26,,,12,0.37,10,10
+●,1_LL,USA\Comey,0,Comey,maxku,11-May-18 11:15:31,,,5,0.15,10,10
+●,1_LL,USA\Trump,0,Trump,maxku,11-May-18 11:15:39,,,5,0.15,10,10
+●,1_LL,USA\Comey,0,Comey,maxku,11-May-18 11:15:43,,,5,0.15,10,10
+●,1_LL,Comey Memos\Steele dossier,0,the Steele dossier,maxku,11-May-18 11:15:53,,,18,0.55,10,10
+●,1_LL,Properties\Other\Other,0,allegations about Russian prostitutes,maxku,11-May-18 11:16:00,Steele dossier,,37,1.13,10,10
+●,1_LL,USA\Trump,0,The President,maxku,11-May-18 11:16:14,,,13,0.40,11,11
+●,1_LL,Comey Memos\Steele dossier,0,the 'Golden Showers thing',maxku,11-May-18 11:16:20,,,26,0.80,11,11
+●,1_LL,Properties\Difficulty\Difficult,0,really bothered [him],maxku,11-May-18 11:16:29,Trump,,21,0.64,11,11
+●,1_LL,USA\Comey,0,Comey,maxku,11-May-18 11:16:55,,,5,0.15,11,11
+●,1_LL,Comey Memos,0,one memo,maxku,11-May-18 11:17:01,,,8,0.24,11,11
+●,1_LL,USA\Trump,0,The President,maxku,11-May-18 11:17:05,,,13,0.40,11,11
+●,1_LL,Comey Memos\Steele dossier,0,'the hookers thing',maxku,11-May-18 11:17:13,,,19,0.58,11,11
+●,1_LL,Properties\Behaviour & character\Not trustworthy,0,nonsense,maxku,11-May-18 11:17:20,Steele dossier,,8,0.24,11,11
+●,1_LL,RUS\Putin,0,Putin,maxku,11-May-18 11:17:31,,,5,0.15,11,11
+●,1_LL,USA\Comey,0,Comey,maxku,11-May-18 11:17:38,,,5,0.15,12,12
+●,1_LL,USA\Trump,0,Trump,maxku,11-May-18 11:17:48,,,5,0.15,12,12
+●,1_LL,Properties\Other\Other,0,allegedly,maxku,11-May-18 11:17:56,Comey Memos,,9,0.28,12,12
+●,1_LL,Comey Memos,0,The memos,maxku,11-May-18 11:18:18,,,9,0.28,13,13
+●,1_LL,USA,0,the DOJ,maxku,11-May-18 11:18:47,,,7,0.21,13,13
+●,1_LL,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,threatened,maxku,11-May-18 11:18:54,USA-I,,10,0.31,13,13
+●,1_LL,Properties\Affection\Affection or empathy,0,doing great,maxku,17-May-18 10:55:24,Comey,,11,0.34,8,8
+●,1_LL,USA\Flynn,0,then-national security adviser Michael Flynn,AnZhu,23-Mar-20 18:51:05,,,44,1.35,5,5
+●,1_LL,USA\Flynn,0,Flynn,maxku,17-May-18 11:17:30,,,5,0.15,9,9
+●,1_LL,USA\Flynn,0,Flynn,maxku,17-May-18 11:17:41,,,5,0.15,12,12
+●,1_LL,Properties\Other\Other,0,to protect us and to protect the WH,maxku,17-May-18 11:20:10,USA,,35,1.07,5,5
+●,1_LL,Comey Memos,0,the documents,AnZhu,10-Jan-19 21:20:45,,,13,0.40,3,3
+●,1_LL,Comey Memos,0,the so-called Comey memos,AnZhu,10-Jan-19 21:20:37,,,25,0.76,3,3
+●,1_LL,Comey Memos\Interactions with Trump,0,the conversation,AnZhu,10-Jan-19 21:40:56,,,16,0.49,2,2
+●,1_LL,Comey Memos\Interactions with Trump,0,meeting with Trump,AnZhu,10-Jan-19 21:41:01,,,18,0.55,2,2
+●,1_LL,Comey Memos\Interactions with Trump,0,the conversation,AnZhu,10-Jan-19 21:41:08,,,16,0.49,7,7
+●,1_LL,Comey Memos\Flynn investigation,0,any investigation into Flynn,AnZhu,10-Jan-19 21:48:06,,,28,0.86,12,12
+●,1_LL,Comey Memos\Flynn investigation,0,serious judgment issues,AnZhu,10-Jan-19 21:53:44,,,23,0.70,9,9
+●,1_LL,Comey Memos\Interactions with Trump,0,his early encounters with newly-minted President Donald Trump,AnZhu,10-Jan-19 22:49:45,,,61,1.87,3,3
+●,1_LL,Comey Memos\Steele dossier,0,allegations about Russian prostitutes,AnZhu,10-Jan-19 22:52:09,,,37,1.13,10,10
+●,1_LL,USA\USA-I,0,congressional leaders,AnZhu,23-Mar-20 18:48:31,,,21,0.64,3,3
+●,1_LL,GBR\Steele,0,Steele,AnZhu,23-Mar-20 18:49:40,,,6,0.18,3,3
+●,1_LL,USA\USA-I,0,aides,AnZhu,23-Mar-20 18:50:10,,,5,0.15,3,3
+●,1_LL,USA,0,the WH,AnZhu,23-Mar-20 18:51:22,,,6,0.18,5,5
+●,1_LL,USA\Flynn,0,'the guy,AnZhu,23-Mar-20 18:52:52,,,8,0.24,9,9
+●,1_LL,Comey Memos\Demand for loyalty,0,his demands for aides' loyalty,AnZhu,23-Mar-20 18:53:41,,,30,0.92,3,3
+●,1_LL,Comey Memos\Demand for loyalty,0,the president's widely-reported demand for loyalty,AnZhu,23-Mar-20 18:53:49,,,50,1.53,6,6
+●,1_LL,Comey Memos\Demand for loyalty,0,"wants, 'honest loyalty.'",AnZhu,24-Mar-20 12:17:30,,,24,0.73,7,7
+●,1_LL,Comey Memos\Demand for loyalty,0,need loyalty,AnZhu,24-Mar-20 12:17:21,,,12,0.37,7,7
+●,1_LL,USA\Republicans\Goodlatte,0,House Judiciary Chairman Bob Goodlatte (R-Va.),AnZhu,23-Mar-20 18:57:26,,,46,1.41,13,13
+●,1_LL,USA\Rosenstein,0,Deputy Attorney General Rod Rosenstein,AnZhu,23-Mar-20 18:58:10,,,38,1.16,13,13
+●,1_LL,Memos release,0,released copies of the so-called Comey memos,AnZhu,24-Mar-20 12:06:46,,,44,1.35,3,3
+●,1_LL,Comey Memos\Steele dossier,0,allegations,AnZhu,24-Mar-20 12:08:10,,,11,0.34,3,3
+●,1_LL,Memos release,0,were released,AnZhu,24-Mar-20 12:16:18,,,13,0.40,13,13
+●,1_LL,Memos release,0,their release on Monday,AnZhu,24-Mar-20 12:16:35,,,23,0.70,13,13
+●,1_LL,Comey Memos\Demand for loyalty,0,the subject,AnZhu,24-Mar-20 12:17:45,,,11,0.34,7,7
+●,1_LL,Comey Memos\Interference into Flynn investigation,0,"""serious reservations"" about Flynn",AnZhu,24-Mar-20 12:18:16,,,34,1.04,9,9
+●,1_LL,Comey Memos\Interference into Flynn investigation,0,"pointed his [fingers] at his head and said 'the guy has serious judgment issues,'",AnZhu,24-Mar-20 12:18:42,,,81,2.48,9,9
+●,1_LL,Comey Memos\Interference into RUS investigation,0,insisted Comey disprove allegations about Russian prostitutes in the Steele dossier,AnZhu,24-Mar-20 12:19:10,,,83,2.54,10,10
+●,1_LL,Comey Memos\Steele dossier,0,nonsense,AnZhu,24-Mar-20 12:19:28,,,8,0.24,11,11
+●,1_LL,Comey Memos\Interference into Flynn investigation,0,asked him to drop any investigation into Flynn,AnZhu,24-Mar-20 12:19:43,,,46,1.41,12,12
+●,1_LL,USA\Comey,0,Comey,AnZhu,24-Mar-20 12:33:08,,,5,0.15,3,3
+●,1_LL,RUS\RUS-Misc,0,Russian prostitutes,AnZhu,24-Mar-20 12:40:41,,,19,0.58,10,10
+●,1_LL,RUS\RUS-Misc,0,some of the most beautiful hookers in the world,AnZhu,24-Mar-20 12:40:48,,,47,1.44,11,11
+●,1_M,Comey Memos,0,Comey memos,maxku,07-May-18 09:03:50,,,11,0.17,1,1
+●,1_M,USA,0,Congress,maxku,07-May-18 09:04:03,,,8,0.12,1,1
+●,1_M,Comey Memos,0,A series of explosive memos,AnZhu,24-Mar-20 10:47:13,,,27,0.41,2,2
+●,1_M,USA\Comey,0,Comey,maxku,07-May-18 09:06:18,,,5,0.08,1,1
+●,1_M,USA\Comey,0,former FBI director James Comey,maxku,07-May-18 09:06:25,,,31,0.47,2,2
+●,1_M,USA\Trump,0,President Trump,maxku,07-May-18 09:09:26,,,15,0.23,2,2
+●,1_M,USA\Comey,0,Comey,maxku,07-May-18 09:09:32,,,5,0.08,2,2
+●,1_M,USA\Comey,0,Comey,maxku,07-May-18 09:09:38,,,5,0.08,2,2
+●,1_M,Comey Memos,0,The memos,maxku,07-May-18 09:10:44,,,9,0.14,3,3
+●,1_M,USA,0,Congress,maxku,07-May-18 09:10:49,,,8,0.12,3,3
+●,1_M,USA\Trump,0,Trump,maxku,07-May-18 09:11:07,,,5,0.08,3,3
+●,1_M,RUS meddling,0,Russia's interference in the 2016 elections,maxku,07-May-18 09:14:04,,,43,0.65,3,3
+●,1_M,USA\Comey,0,the former director,AnZhu,24-Mar-20 10:49:33,,,19,0.29,3,3
+●,1_M,USA\Comey,0,Comey,maxku,07-May-18 09:14:21,,,5,0.08,3,3
+●,1_M,USA\Trump,0,the president,maxku,07-May-18 09:14:48,,,13,0.20,3,3
+●,1_M,USA,0,the FBI,maxku,07-May-18 09:15:24,,,7,0.11,4,4
+●,1_M,Comey Memos,0,the disclosures in the memos,AnZhu,24-Mar-20 10:54:47,,,28,0.42,5,5
+●,1_M,USA\Trump,0,Trump,maxku,07-May-18 09:16:41,,,5,0.08,5,5
+●,1_M,USA\Comey,0,Comey,maxku,07-May-18 09:16:44,,,5,0.08,5,5
+●,1_M,USA\Trump,0,Trump,maxku,07-May-18 09:17:12,,,5,0.08,5,5
+●,1_M,RUS\Putin,0,Putin,maxku,07-May-18 09:17:44,,,5,0.08,7,7
+●,1_M,USA\Trump,0,Trump,maxku,07-May-18 09:17:55,,,5,0.08,7,7
+●,1_M,USA\Comey,0,Comey,maxku,07-May-18 09:18:00,,,5,0.08,8,8
+●,1_M,RUS,0,Russia,maxku,07-May-18 09:18:11,,,6,0.09,8,8
+●,1_M,USA,0,America,maxku,07-May-18 09:18:17,,,7,0.11,8,8
+●,1_M,USA\Trump,0,Trump,maxku,07-May-18 09:18:24,,,5,0.08,9,9
+●,1_M,USA\Comey,0,Comey,maxku,07-May-18 09:18:29,,,5,0.08,9,9
+●,1_M,Comey Memos,0,the memos,maxku,07-May-18 09:19:24,,,9,0.14,16,16
+●,1_M,Comey Memos,0,Former Director Comey's memos,maxku,07-May-18 09:21:31,,,29,0.44,29,29
+●,1_M,USA\Comey,0,Former Director Comey,maxku,07-May-18 09:21:38,,,21,0.32,29,29
+●,1_M,USA\Trump,0,Trump,maxku,07-May-18 09:22:30,,,5,0.08,30,30
+●,1_M,Comey Memos\Steele dossier,0,The dossier,maxku,07-May-18 09:48:29,,,11,0.17,30,30
+●,1_M,Properties\Power & Strength\Powerful & Leading,0,explosive,maxku,11-May-18 09:09:41,Comey Memos,,9,0.14,2,2
+●,1_M,Properties\Other\Negative,0,troubling encounters,maxku,11-May-18 09:10:02,Trump,,20,0.30,2,2
+●,1_M,Properties\Quality\Functioning,0,closely tracked,maxku,11-May-18 09:10:30,Comey Memos,,15,0.23,2,2
+●,1_M,Comey Memos\RUS investigation,0,his investigation into Trump's possible attempts to obstruct the probe of Russia's interference in the 2016 elections,AnZhu,24-Mar-20 12:45:51,,,117,1.77,3,3
+●,1_M,Properties\Other\Other,0,possible attempts to obstruct,maxku,11-May-18 09:11:22,Trump,,29,0.44,3,3
+●,1_M,Properties\Behaviour & character\Not trustworthy,0,Russia's interference,maxku,11-May-18 09:12:17,RUS,,21,0.32,3,3
+●,1_M,RUS,0,Russia,maxku,11-May-18 09:12:32,,,6,0.09,3,3
+●,1_M,Properties\Other\Other,0,alleged demands for loyalty,maxku,11-May-18 09:12:53,Trump,,27,0.41,3,3
+●,1_M,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,confronted,maxku,11-May-18 09:13:48,Trump,,10,0.15,5,5
+●,1_M,Properties\Violence & Unfair\Victim (receiving violence),0,confronted,maxku,11-May-18 09:13:50,Comey,,10,0.15,5,5
+●,1_M,Comey Memos\Steele dossier,0,a dossier,maxku,11-May-18 09:15:03,,,9,0.14,5,5
+●,1_M,USA\Trump,0,The president,AnZhu,24-Mar-20 13:22:49,,,13,0.20,6,6
+●,1_M,Comey Memos\Steele dossier,0,the 'Golden Shower Thing',maxku,11-May-18 09:15:54,,,25,0.38,6,6
+●,1_M,Properties\Difficulty\Difficult,0,bothered him,maxku,11-May-18 09:16:27,Trump,,12,0.18,6,6
+●,1_M,USA\Comey,0,Comey,maxku,11-May-18 09:16:41,,,5,0.08,6,6
+●,1_M,USA\Trump,0,The president,maxku,11-May-18 09:16:46,,,13,0.20,6,6
+●,1_M,Comey Memos\Steele dossier,0,'the hookers thing',AnZhu,24-Mar-20 11:05:25,,,19,0.29,6,6
+●,1_M,RUS\Putin,0,Russian President Vladimir,maxku,11-May-18 09:17:18,,,26,0.39,6,6
+●,1_M,RUS\Putin,0,Putin,maxku,11-May-18 09:17:22,,,5,0.08,6,6
+●,1_M,USA\Comey,0,Comey,maxku,11-May-18 09:17:27,,,5,0.08,7,7
+●,1_M,USA\Trump,0,Trump,maxku,11-May-18 09:17:32,,,5,0.08,7,7
+●,1_M,Comey Memos\Steele dossier,0,the dossier,maxku,11-May-18 09:17:45,,,11,0.17,7,7
+●,1_M,USA\Comey,0,Comey,maxku,11-May-18 09:18:20,,,5,0.08,8,8
+●,1_M,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,having seriously crossed,maxku,11-May-18 09:18:32,Comey,,24,0.36,8,8
+●,1_M,USA\Trump,0,Trump,maxku,11-May-18 09:18:45,,,5,0.08,8,8
+●,1_M,Properties\Behaviour & character\Confident,0,challenged the president's comments,maxku,11-May-18 09:19:11,Comey,,35,0.53,8,8
+●,1_M,USA\Trump,0,the president,maxku,11-May-18 09:19:25,,,13,0.20,8,8
+●,1_M,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,"both harbored ""killers.""",maxku,11-May-18 09:19:40,"RUS
+USA",,24,0.36,8,8
+●,1_M,Properties\Behaviour & character\Confident,0,had directly challenged him,maxku,11-May-18 09:20:07,Comey,,27,0.41,9,9
+●,1_M,Comey Memos,0,the memo,maxku,11-May-18 09:20:24,,,8,0.12,9,9
+●,1_M,Properties\Behaviour & character\SHOWN as Reasonable/Smart,0,clearly noticed,maxku,17-May-18 11:02:00,Trump,,15,0.23,9,9
+●,1_M,USA\Comey,0,Comey,maxku,11-May-18 09:21:24,,,5,0.08,10,10
+●,1_M,Properties\Safety\Unsafe,0,gone from potential ally to enemy,maxku,11-May-18 09:21:57,Comey,,33,0.50,10,10
+●,1_M,USA\Trump,0,the president,maxku,11-May-18 09:22:09,,,13,0.20,10,10
+●,1_M,USA\Trump,0,Trump,maxku,11-May-18 09:22:14,,,5,0.08,11,11
+●,1_M,Comey Memos,0,the released memos,maxku,11-May-18 09:22:20,,,18,0.27,11,11
+●,1_M,Properties\Law\Lawful,0,NO COLLUSION,maxku,11-May-18 09:22:30,Trump,,12,0.18,11,11
+●,1_M,Properties\Law\Lawful,0,NO OBSTRUCTION,maxku,11-May-18 09:22:38,Trump,,14,0.21,11,11
+●,1_M,USA,0,six congressional committees,maxku,11-May-18 09:23:24,,,28,0.42,12,12
+●,1_M,Properties\Other\Other,0,the unusual events,maxku,11-May-18 09:23:36,Comey Memos,,18,0.27,13,13
+●,1_M,USA,0,the department,maxku,11-May-18 09:23:52,,,14,0.21,13,13
+●,1_M,Comey Memos,0,the memoranda,maxku,11-May-18 09:24:06,,,13,0.20,13,13
+●,1_M,Properties\Power & Strength\Weak & Following,0,not adversely impact,maxku,11-May-18 09:24:16,Comey Memos,,20,0.30,13,13
+●,1_M,USA\Comey,0,"Comey, who was abruptly dismissed by Trump last year",AnZhu,24-Mar-20 12:49:23,,,52,0.79,14,14
+●,1_M,Properties\Violence & Unfair\Victim (receiving violence),0,abruptly dismissed,maxku,11-May-18 09:25:22,Comey,,18,0.27,14,14
+●,1_M,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,abruptly dismissed,maxku,11-May-18 09:25:24,Trump,,18,0.27,14,14
+●,1_M,USA\Trump,0,Trump,maxku,11-May-18 09:25:53,,,5,0.08,14,14
+●,1_M,Comey Memos,0,the memos,maxku,11-May-18 09:26:09,,,9,0.14,14,14
+●,1_M,USA\Comey,0,Comey,maxku,11-May-18 09:26:34,,,5,0.08,15,15
+●,1_M,Comey Memos,0,the memos,maxku,11-May-18 09:26:51,,,9,0.14,15,15
+●,1_M,USA,0,the Senate Intelligence Committee,maxku,11-May-18 09:26:56,,,33,0.50,15,15
+●,1_M,Properties\Behaviour & character\Confident,0,extensive testimony,maxku,11-May-18 09:27:22,Comey,,19,0.29,15,15
+●,1_M,USA,0,Congress,maxku,11-May-18 09:27:42,,,8,0.12,16,16
+●,1_M,USA\Comey,0,Comey,maxku,11-May-18 09:27:47,,,5,0.08,16,16
+●,1_M,Properties\Behaviour & character\Trustworthy,0,"favored ""transparency",maxku,11-May-18 09:28:08,Comey,,21,0.32,16,16
+●,1_M,USA\Comey,0,The former FBI director,maxku,11-May-18 09:28:21,,,23,0.35,17,17
+●,1_M,USA\Trump,0,the president,maxku,11-May-18 09:28:30,,,13,0.20,17,17
+●,1_M,USA\Trump,0,Trump,maxku,11-May-18 09:28:34,,,5,0.08,17,17
+●,1_M,USA\Comey,0,"Comey, who served three presidents",AnZhu,24-Mar-20 11:11:38,,,34,0.51,18,18
+●,1_M,USA\Trump,0,Trump,maxku,11-May-18 09:28:46,,,5,0.08,18,18
+●,1_M,Properties\Importance\Important & Intense,0,unusual action,maxku,11-May-18 09:28:55,Comey memos,,14,0.21,18,18
+●,1_M,Properties\Power & Strength\Weak & Following,0,"feared Trump would ""lie""",maxku,11-May-18 09:29:30,Comey,,24,0.36,18,18
+●,1_M,USA\Comey,0,Comey,maxku,11-May-18 09:29:43,,,5,0.08,19,19
+●,1_M,USA\Trump,0,Trump,maxku,11-May-18 09:29:47,,,5,0.08,19,19
+●,1_M,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,morally unfit,maxku,11-May-18 09:29:55,Trump,,13,0.20,19,19
+●,1_M,Properties\Honor & patriotic values\Dishonor,0,morally unfit,maxku,11-May-18 09:29:59,Trump,,13,0.20,19,19
+●,1_M,RUS,0,Russia,maxku,11-May-18 09:30:16,,,6,0.09,19,19
+●,1_M,USA\Trump,0,the president,maxku,11-May-18 09:30:21,,,13,0.20,19,19
+●,1_M,Properties\Power & Strength\Powerful & Leading,0,held compromising information,maxku,11-May-18 09:30:32,RUS,,29,0.44,19,19
+●,1_M,Comey Memos,0,Comey's memos,maxku,11-May-18 09:32:11,,,13,0.20,20,20
+●,1_M,Properties\Power & Strength\Powerful & Leading,0,strong corroborating evidence,maxku,11-May-18 09:32:21,Comey Memos,,29,0.44,20,20
+●,1_M,USA\Trump,0,President Trump,maxku,11-May-18 09:32:39,,,15,0.23,20,20
+●,1_M,USA\Trump,0,the President,maxku,11-May-18 09:32:43,,,13,0.20,20,20
+●,1_M,Comey Memos\RUS investigation,0,the Russia investigation,maxku,11-May-18 09:32:56,,,24,0.36,20,20
+●,1_M,RUS,0,Russia,maxku,11-May-18 09:33:00,,,6,0.09,20,20
+●,1_M,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,wanted Michael Flynn to walk,maxku,11-May-18 09:35:07,Trump,,28,0.42,20,20
+●,1_M,Properties\Power & Strength\Powerful & Leading,0,wanted to end the Russia investigation,maxku,11-May-18 09:35:23,Trump,,38,0.57,20,20
+●,1_M,USA\Trump,0,President Trump,maxku,11-May-18 09:36:05,,,15,0.23,21,21
+●,1_M,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,blatant effort,maxku,11-May-18 09:36:13,Trump,,14,0.21,21,21
+●,1_M,Properties\Law\Unlawful,0,deny justice,maxku,11-May-18 09:36:25,Trump,,12,0.18,21,21
+●,1_M,USA\Comey,0,Director Comey,maxku,11-May-18 09:36:38,,,14,0.21,21,21
+●,1_M,Properties\Behaviour & character\SHOWN as Reasonable/Smart,0,right to document,maxku,11-May-18 09:36:46,Comey,,17,0.26,21,21
+●,1_M,Comey Memos,0,the memos,maxku,11-May-18 09:37:25,,,9,0.14,22,22
+●,1_M,Properties\Behaviour & character\Trustworthy,0,corroborated by contemporaneous handwritten notes,maxku,11-May-18 09:38:14,Comey Memos,,49,0.74,22,22
+●,1_M,Comey Memos,0,the memo,maxku,11-May-18 09:39:50,,,8,0.12,23,23
+●,1_M,USA\Comey,0,Comey,maxku,11-May-18 09:39:53,,,5,0.08,23,23
+●,1_M,Comey Memos,0,memo,maxku,11-May-18 09:40:33,,,4,0.06,23,23
+●,1_M,Properties\Other\Other,0,unclassified,maxku,11-May-18 09:40:46,Comey Memos,,12,0.18,23,23
+●,1_M,USA\Comey,0,Comey,maxku,11-May-18 09:40:59,,,5,0.08,23,23
+●,1_M,Properties\Affection\Refusal,0,accused him,maxku,11-May-18 09:41:16,Comey,,11,0.17,23,23
+●,1_M,Properties\Behaviour & character\Not trustworthy,0,leaking classified information,maxku,11-May-18 09:41:28,Comey,,30,0.45,23,23
+●,1_M,Comey Memos,0,that memo,maxku,11-May-18 09:41:39,,,9,0.14,23,23
+●,1_M,USA,0,the Justice Department,maxku,11-May-18 09:42:08,,,22,0.33,24,24
+●,1_M,USA\Comey,0,Comey,maxku,11-May-18 09:42:30,,,5,0.08,24,24
+●,1_M,Comey Memos,0,Comey's memos,maxku,11-May-18 09:42:36,,,13,0.20,24,24
+●,1_M,Comey Memos,0,These memos,maxku,11-May-18 09:42:52,,,11,0.17,25,25
+●,1_M,Properties\Importance\Important & Intense,0,significant,maxku,11-May-18 09:43:04,Comey Memos,,11,0.17,25,25
+●,1_M,USA\Comey,0,the President,maxku,11-May-18 09:45:50,,,13,0.20,29,29
+●,1_M,RUS,0,Russia,maxku,11-May-18 09:46:00,,,6,0.09,29,29
+●,1_M,Comey Memos,0,The memos,maxku,11-May-18 09:46:15,,,9,0.14,29,29
+●,1_M,USA\Trump,0,President Trump,maxku,11-May-18 09:46:25,,,15,0.23,29,29
+●,1_M,RUS meddling,0,the Russian interference in the 2016 election,AnZhu,10-Jan-19 21:10:35,,,45,0.68,29,29
+●,1_M,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,"salacious, unsubstantiated allegations",maxku,11-May-18 09:46:47,Steele dossier,,38,0.57,29,29
+●,1_M,Properties\Behaviour & character\Confident,0,made clear,maxku,11-May-18 09:47:19,Trump,,10,0.15,29,29
+●,1_M,Comey Memos\Steele dossier,0,the dossier,maxku,11-May-18 09:47:40,,,11,0.17,29,29
+●,1_M,Properties\Other\Other,0,unsubstantiated allegations,maxku,11-May-18 09:48:01,Steele dossier,,27,0.41,30,30
+●,1_M,Comey Memos,0,The memos,maxku,11-May-18 09:48:18,,,9,0.14,31,31
+●,1_M,USA\Comey,0,Director Comey,maxku,11-May-18 09:48:24,,,14,0.21,31,31
+●,1_M,Properties\Safety\Safe,0,never wrote that he felt obstructed or threatened,maxku,11-May-18 09:48:56,Comey,,49,0.74,31,31
+●,1_M,Comey Memos,0,the memos,maxku,11-May-18 09:49:20,,,9,0.14,32,32
+●,1_M,USA\Comey,0,Comey,maxku,11-May-18 09:49:24,,,5,0.08,32,32
+●,1_M,USA\Trump,0,Trump,maxku,11-May-18 09:49:30,,,5,0.08,32,32
+●,1_M,USA\Trump,0,President Trump,maxku,11-May-18 09:50:08,,,15,0.23,33,33
+●,1_M,Properties\Importance\Important & Intense,0,immediately began to memorialize,maxku,11-May-18 09:50:18,Trump,,32,0.48,33,33
+●,1_M,Properties\Importance\Important & Intense,0,had different standards in dealing with Trump than he did with others,maxku,11-May-18 10:50:45,Trump,,69,1.04,32,32
+●,1_M,USA\Flynn,0,former national security adviser Michael Flynn,AnZhu,24-Mar-20 10:50:07,,,46,0.70,3,3
+●,1_M,USA\Flynn,0,Flynn,maxku,17-May-18 11:16:01,,,5,0.08,4,4
+●,1_M,USA\Flynn,0,Flynn,maxku,17-May-18 11:16:12,,,5,0.08,4,4
+●,1_M,USA\Flynn,0,Michael Flynn,maxku,17-May-18 11:16:24,,,13,0.20,20,20
+●,1_M,Properties\Other\Other,0,purportedly describing,felix,18-Dec-18 19:05:00,Trump,,22,0.33,5,5
+●,1_M,USA\Trump,0,"""morally unfit"" to be president",AnZhu,24-Mar-20 11:12:03,,,31,0.47,19,19
+●,1_M,Comey Memos,0,both redacted and un-redacted versions of the documents,AnZhu,24-Mar-20 11:09:14,,,55,0.83,12,12
+●,1_M,Comey Memos,0,classified information,AnZhu,04-Jan-19 18:25:00,,,22,0.33,23,23
+●,1_M,Comey Memos,0,the documents,AnZhu,24-Mar-20 11:18:25,,,13,0.20,24,24
+●,1_M,RUS meddling,0,"collusion, coordination, and conspiracy between his campaign and Russia",AnZhu,10-Jan-19 21:11:42,,,71,1.07,29,29
+●,1_M,RUS meddling,0,NO COLLUSION,AnZhu,10-Jan-19 21:13:10,,,12,0.18,11,11
+●,1_M,Comey Memos\Interactions with Trump,0,the conversation,AnZhu,10-Jan-19 21:42:10,,,16,0.24,6,6
+●,1_M,Comey Memos\Interactions with Trump,0,conversations with President Trump,AnZhu,10-Jan-19 21:42:22,,,34,0.51,33,33
+●,1_M,Comey Memos\Interactions with Trump,0,their interactions,AnZhu,10-Jan-19 21:44:03,,,18,0.27,18,18
+●,1_M,Comey Memos\Flynn investigation,0,investigation into former national security adviser Michael Flynn,AnZhu,10-Jan-19 21:51:38,,,65,0.98,3,3
+●,1_M,Comey Memos\Interactions with Trump,0,his troubling encounters with President Trump,AnZhu,10-Jan-19 22:48:47,,,45,0.68,2,2
+●,1_M,Comey Memos\Interactions with Trump,0,encounter in which Trump confronted Comey about the contents of a dossier,AnZhu,24-Mar-20 10:55:01,,,73,1.10,5,5
+●,1_M,Comey Memos\Interactions with Trump,0,the encounters,AnZhu,10-Jan-19 22:49:08,,,14,0.21,14,14
+●,1_M,Comey Memos\Steele dossier,0,"salacious, unsubstantiated allegations related to personal conduct",AnZhu,10-Jan-19 22:54:38,,,66,1.00,29,29
+●,1_M,Comey Memos\Steele dossier,0,unsubstantiated allegations,AnZhu,24-Mar-20 11:24:12,,,27,0.41,30,30
+●,1_M,Comey Memos\Steele dossier,0,Trump's involvement with prostitutes during a 2013 visit in Moscow,AnZhu,10-Jan-19 22:56:24,,,66,1.00,5,5
+●,1_M,USA\Mueller,0,Justice special counsel Robert Mueller,AnZhu,24-Mar-20 10:47:50,,,38,0.57,3,3
+●,1_M,Comey Memos\Demand for loyalty,0,the president's alleged demands for loyalty from the former director,AnZhu,24-Mar-20 10:49:21,,,68,1.03,3,3
+●,1_M,USA\Mueller,0,Mueller,AnZhu,24-Mar-20 10:53:02,,,7,0.11,4,4
+●,1_M,USA\Mueller\Investigators,0,Mueller's investigators,AnZhu,24-Mar-20 10:53:29,,,23,0.35,4,4
+●,1_M,RUS\Kislyak,0,Russia ambassador Sergey Kislyak,AnZhu,24-Mar-20 10:54:12,,,32,0.48,4,4
+●,1_M,Comey Memos\Flynn investigation,0,his pre-inaugural contacts with Russia ambassador Sergey Kislyak,AnZhu,24-Mar-20 10:54:24,,,64,0.97,4,4
+●,1_M,GBR\Steele,0,a former British intelligence agent,AnZhu,24-Mar-20 10:55:13,,,35,0.53,5,5
+●,1_M,RUS,0,Moscow,AnZhu,24-Mar-20 11:04:36,,,6,0.09,5,5
+●,1_M,Comey Memos\Steele dossier,0,nonsense,AnZhu,24-Mar-20 11:05:30,,,8,0.12,6,6
+●,1_M,Comey Memos\Interactions with Trump,0,meeting,AnZhu,24-Mar-20 11:06:15,,,7,0.11,8,8
+●,1_M,Comey Memos,0,NO COLLUSION and NO OBSTRUCTION,AnZhu,24-Mar-20 12:48:30,,,31,0.47,11,11
+●,1_M,USA\Boyd,0,Assistant Attorney General Stephen Boyd,AnZhu,24-Mar-20 11:08:56,,,39,0.59,12,12
+●,1_M,USA\Boyd,0,Boyd,AnZhu,24-Mar-20 11:09:59,,,4,0.06,13,13
+●,1_M,USA,0,the executive branch,AnZhu,24-Mar-20 11:10:12,,,20,0.30,13,13
+●,1_M,Comey Memos\Interactions with Trump,0,his meetings and telephone contacts with the president,AnZhu,24-Mar-20 11:11:18,,,54,0.82,17,17
+●,1_M,Comey Memos\Interactions with Trump,0,their first meeting,AnZhu,24-Mar-20 11:11:24,,,19,0.29,17,17
+●,1_M,RUS meddling,0,compromising information on the president,AnZhu,24-Mar-20 11:12:30,,,41,0.62,19,19
+●,1_M,USA\Democrats\Cummings,0,"Rep. Elijah E. Cummings of Maryland, the senior Democrat on the House Committee on Oversight and Government Reform",AnZhu,24-Mar-20 11:12:51,,,114,1.72,20,20
+●,1_M,USA\Comey,0,Comey',AnZhu,24-Mar-20 11:13:08,,,6,0.09,20,20
+●,1_M,Comey Memos,0,strong corroborating evidence of everything he said about President Trump,AnZhu,24-Mar-20 11:13:20,,,73,1.10,20,20
+●,1_M,Comey Memos\Demand for loyalty,0,wanted his personal loyalty,AnZhu,24-Mar-20 13:00:43,,,27,0.41,20,20
+●,1_M,Comey Memos\Interference into Flynn investigation,0,wanted Michael Flynn to walk,AnZhu,24-Mar-20 11:14:39,,,28,0.42,20,20
+●,1_M,Comey Memos\Interference into Flynn investigation,0,President Trump's interference,AnZhu,24-Mar-20 11:14:44,,,30,0.45,21,21
+●,1_M,Comey Memos\Interference into Flynn investigation,0,a blatant effort to deny justice,AnZhu,24-Mar-20 11:14:48,,,32,0.48,21,21
+●,1_M,USA\Democrats\Cummings,0,Cummings,AnZhu,24-Mar-20 11:15:03,,,8,0.12,21,21
+●,1_M,USA\Democrats\Cummings,0,The congressman,AnZhu,24-Mar-20 11:15:24,,,15,0.23,22,22
+●,1_M,Comey Memos,0,"""corroborated by contemporaneous handwritten notes",AnZhu,24-Mar-20 11:15:40,,,50,0.76,22,22
+●,1_M,USA\Boente,0,top Justice Department official Dana Boente,AnZhu,24-Mar-20 11:16:13,,,43,0.65,22,22
+●,1_M,USA\Boente,0,Boente,AnZhu,24-Mar-20 11:16:22,,,6,0.09,22,22
+●,1_M,USA\Boente,0,a former acting attorney general,AnZhu,24-Mar-20 11:16:28,,,32,0.48,22,22
+●,1_M,USA\Democrats\Cummings,0,Cummings,AnZhu,24-Mar-20 11:16:59,,,8,0.12,23,23
+●,1_M,Comey Memos,0,"""unclassified.""",AnZhu,24-Mar-20 11:17:19,,,15,0.23,23,23
+●,1_M,Comey Memos,0,significant for both what is in them and what is not,AnZhu,24-Mar-20 11:19:05,,,52,0.79,25,25
+●,1_M,USA\Republicans\Goodlatte,0,"Judiciary Chairman Bob Goodlatte, R-Va.,",AnZhu,24-Mar-20 11:19:39,,,40,0.60,25,25
+●,1_M,USA\Republicans\Gowdy,0,"Oversight Chairman Trey Gowdy, R-S.C",AnZhu,24-Mar-20 11:19:49,,,36,0.54,25,25
+●,1_M,USA\Republicans\Nunes,0,"Intelligence Chairman Devin Nunes, R-Calif",AnZhu,24-Mar-20 11:20:08,,,42,0.64,25,25
+●,1_M,USA\Comey,0,James Comey,AnZhu,24-Mar-20 11:20:25,,,11,0.17,26,26
+●,1_M,USA\Comey,0,James Comey,AnZhu,24-Mar-20 11:20:55,,,11,0.17,27,27
+●,1_M,USA\Comey,0,James Comey,AnZhu,24-Mar-20 11:21:04,,,11,0.17,28,28
+●,1_M,USA\Democrats,0,liberals,AnZhu,24-Mar-20 11:21:09,,,8,0.12,27,27
+●,1_M,USA\Republicans,0,Conservatives,AnZhu,24-Mar-20 11:21:26,,,13,0.20,27,27
+●,1_M,USA\Trump,0,Trump,AnZhu,24-Mar-20 11:21:33,,,5,0.08,28,28
+●,1_M,Comey Memos,0,"the salacious, unsubstantiated allegations related to personal conduct leveled in the dossier.",AnZhu,24-Mar-20 11:23:27,,,94,1.42,29,29
+●,1_M,GBR\Steele,0,former British spy Christopher Steele,AnZhu,24-Mar-20 11:23:44,,,37,0.56,30,30
+●,1_M,USA\Democrats,0,Democratic political committees,AnZhu,24-Mar-20 11:23:58,,,31,0.47,30,30
+●,1_M,RUS,0,Moscow,AnZhu,24-Mar-20 11:24:31,,,6,0.09,30,30
+●,1_M,USA\Republicans,0,the Republican congressmen,AnZhu,24-Mar-20 11:25:03,,,26,0.39,31,31
+●,1_M,USA\Republicans,0,The chairmen of the three House committees,AnZhu,24-Mar-20 11:27:42,,,42,0.64,24,24
+●,1_M,USA\Republicans,0,the chairmen,AnZhu,24-Mar-20 11:31:48,,,12,0.18,29,29
+●,1_M,USA\Republicans,0,The chairmen,AnZhu,24-Mar-20 11:32:20,,,12,0.18,32,32
+●,1_M,USA\McCabe,0,Andrew McCabe,AnZhu,24-Mar-20 11:33:06,,,13,0.20,33,33
+●,1_M,USA\Lynch,0,Attorney General Lynch,AnZhu,24-Mar-20 11:33:30,,,22,0.33,33,33
+●,1_M,USA\Democrats\Clinton,0,Secretary Clinton,AnZhu,24-Mar-20 11:33:43,,,17,0.26,33,33
+●,1_M,RUS\RUS-Misc,0,prostitutes,AnZhu,24-Mar-20 12:40:57,,,11,0.17,5,5
+●,1_M,RUS\RUS-Misc,0,the most beautiful hookers in the world,AnZhu,24-Mar-20 12:41:04,,,39,0.59,6,6
+●,1_M,Memos release,0,released to Congress,AnZhu,24-Mar-20 12:44:57,,,20,0.30,1,1
+●,1_M,Memos release,0,released Thursday,AnZhu,24-Mar-20 12:45:04,,,17,0.26,2,2
+●,1_M,Comey Memos\Interference into Flynn investigation,0,his requests for Comey to shut down its investigation into former national security adviser Michael Flynn,AnZhu,24-Mar-20 12:46:26,,,105,1.59,3,3
+●,1_M,Memos release,0,the release of the memoranda,AnZhu,24-Mar-20 12:49:01,,,28,0.42,13,13
+●,1_M,Memos release,0,The release,AnZhu,24-Mar-20 12:49:09,,,11,0.17,14,14
+●,1_M,USA\Boente,0,the FBI's general counsel,AnZhu,24-Mar-20 12:50:54,,,25,0.38,22,22
+●,1_M,Memos release,0,leaking classified information,AnZhu,24-Mar-20 12:51:31,,,30,0.45,23,23
+●,1_M,Memos release,0,shared that memo,AnZhu,24-Mar-20 12:51:36,,,16,0.24,23,23
+●,1_M,Memos release,0,finally being made public,AnZhu,24-Mar-20 12:51:55,,,25,0.38,24,24
+●,1_R,USA\Trump,0,Trump,maxku,07-May-18 08:54:41,,,5,0.09,1,1
+●,1_R,Comey Memos,0,Comey memos,maxku,07-May-18 08:54:53,,,11,0.19,1,1
+●,1_R,USA,0,FBI,maxku,07-May-18 08:55:03,,,3,0.05,2,2
+●,1_R,USA\Trump,0,President Trump,maxku,07-May-18 08:55:08,,,15,0.26,3,3
+●,1_R,RUS,0,Russia,maxku,07-May-18 08:55:41,,,6,0.11,3,3
+●,1_R,Comey Memos,0,The memos,maxku,07-May-18 08:56:34,,,9,0.16,4,4
+●,1_R,USA\Trump,0,Trump,maxku,07-May-18 08:56:50,,,5,0.09,4,4
+●,1_R,USA\Trump,0,Trump,maxku,07-May-18 08:59:11,,,5,0.09,4,4
+●,1_R,USA,0,FBI,maxku,07-May-18 08:59:19,,,3,0.05,4,4
+●,1_R,Comey Memos,0,James Comey Memos,maxku,07-May-18 08:59:34,,,17,0.30,5,5
+●,1_R,USA\Comey,0,Comey,maxku,07-May-18 09:06:34,,,5,0.09,1,1
+●,1_R,USA\Comey,0,Comey,maxku,07-May-18 09:06:40,,,5,0.09,2,2
+●,1_R,USA\Comey,0,former FBI Director James Comey,maxku,07-May-18 09:06:49,,,31,0.54,3,3
+●,1_R,USA\Comey,0,the fired FBI director,maxku,07-May-18 09:07:17,,,22,0.39,4,4
+●,1_R,USA\Comey,0,James Comey,maxku,07-May-18 09:07:26,,,11,0.19,5,5
+●,1_R,RUS,0,Russia,maxku,07-May-18 09:13:18,,,6,0.11,12,12
+●,1_R,RUS meddling,0,the Russian interference in the 2016 election,AnZhu,10-Jan-19 21:10:15,,,45,0.79,13,13
+●,1_R,USA\Comey,0,Comey,felix,07-May-18 15:05:13,,,5,0.09,4,4
+●,1_R,Comey Memos\RUS investigation,0,the investigation,maxku,11-May-18 09:52:47,,,17,0.30,3,3
+●,1_R,Comey Memos\RUS investigation,0,the FBI's investigation into alleged collusion,AnZhu,10-Jan-19 21:46:08,,,46,0.81,4,4
+●,1_R,Comey Memos\RUS investigation,0,investigation over contacts between Russian officials and members of his campaign,AnZhu,10-Jan-19 21:46:28,,,81,1.42,10,10
+●,1_R,Properties\Law\Lawful,0,"'clearly' show no obstruction, collusion",maxku,11-May-18 09:51:09,Trump,,40,0.70,1,1
+●,1_R,Properties\Other\Other,0,claims,maxku,11-May-18 09:51:23,Comey,,6,0.11,2,2
+●,1_R,Comey Memos,0,the newly released memos,maxku,11-May-18 09:51:47,,,24,0.42,3,3
+●,1_R,Properties\Law\Lawful,0,"""show clearly"" no collusion with Russia",maxku,11-May-18 09:52:14,Trump,,39,0.68,3,3
+●,1_R,Properties\Law\Lawful,0,no obstruction,maxku,11-May-18 09:52:34,Trump,,14,0.25,3,3
+●,1_R,Properties\Safety\Safe,0,never felt obstructed,maxku,11-May-18 09:53:28,Comey,,21,0.37,4,4
+●,1_R,Properties\Other\Other,0,claim,maxku,11-May-18 09:53:59,USA-Misc,,5,0.09,4,4
+●,1_R,Properties\Behaviour & character\Not trustworthy,0,tried to hold up the FBI's investigation,maxku,11-May-18 09:54:19,Trump,,40,0.70,4,4
+●,1_R,Properties\Other\Other,0,alleged collusion,maxku,11-May-18 09:54:46,Trump,,17,0.30,4,4
+●,1_R,Properties\Law\Lawful,0,NO COLLUSION,maxku,11-May-18 09:55:15,Trump,,12,0.21,5,5
+●,1_R,Properties\Law\Lawful,0,NO OBSTRUCTION,maxku,11-May-18 09:55:23,Trump,,14,0.25,5,5
+●,1_R,Properties\Behaviour & character\Not trustworthy,0,leaked classified information,maxku,11-May-18 09:55:40,Comey,,29,0.51,5,5
+●,1_R,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,Witch Hunt,maxku,11-May-18 09:55:53,Comey,,10,0.18,5,5
+●,1_R,Properties\Violence & Unfair\Victim (receiving violence),0,Witch Hunt,maxku,11-May-18 09:55:59,Trump,,10,0.18,5,5
+●,1_R,USA\Trump,0,Trump,maxku,11-May-18 09:56:11,,,5,0.09,5,5
+●,1_R,Comey Memos,0,The memos,maxku,11-May-18 09:56:16,,,9,0.16,6,6
+●,1_R,USA\Trump,0,Trump,maxku,11-May-18 09:56:26,,,5,0.09,6,6
+●,1_R,USA\Comey,0,Comey,maxku,11-May-18 09:56:30,,,5,0.09,6,6
+●,1_R,Properties\Power & Strength\Weak & Following,0,needed loyalty,maxku,11-May-18 09:56:40,Trump,,14,0.25,6,6
+●,1_R,Properties\Behaviour & character\Confident,0,expected loyalty,maxku,11-May-18 09:56:54,Trump,,16,0.28,6,6
+●,1_R,USA\Comey,0,Comey,maxku,11-May-18 10:12:07,,,5,0.09,7,7
+●,1_R,USA\Trump,0,Trump,maxku,11-May-18 10:12:20,,,5,0.09,7,7
+●,1_R,USA\Comey,0,Comey,maxku,11-May-18 10:12:26,,,5,0.09,7,7
+●,1_R,USA\Trump,0,Trump,maxku,11-May-18 10:12:31,,,5,0.09,7,7
+●,1_R,Properties\Power & Strength\Weak & Following,0,I need loyalty,maxku,11-May-18 10:12:37,Trump,,14,0.25,7,7
+●,1_R,Properties\Safety\Unsafe,0,even nod or change my facial expression,maxku,11-May-18 10:13:13,Comey,,39,0.68,7,7
+●,1_R,Properties\Safety\Unsafe,0,did not reply,maxku,11-May-18 10:13:17,Comey,,13,0.23,7,7
+●,1_R,Properties\Behaviour & character\Trustworthy,0,always get honesty from me,maxku,11-May-18 10:13:41,Comey,,26,0.46,8,8
+●,1_R,USA\Trump,0,Trump,maxku,11-May-18 10:13:51,,,5,0.09,8,8
+●,1_R,USA\Comey,0,Comey,maxku,11-May-18 10:13:55,,,5,0.09,8,8
+●,1_R,USA\Comey,0,Comey,maxku,11-May-18 10:14:37,,,5,0.09,9,9
+●,1_R,USA\Trump,0,the President,maxku,11-May-18 10:14:53,,,13,0.23,9,9
+●,1_R,Properties\Behaviour & character\Trustworthy,0,serve the President with loyalty,maxku,11-May-18 10:15:02,Comey,,32,0.56,9,9
+●,1_R,Properties\Honor & patriotic values\Honor,0,"loyalty to the office, the country, and the truth",maxku,11-May-18 10:20:15,Comey,,49,0.86,9,9
+●,1_R,USA\Comey,0,Comey,maxku,11-May-18 10:20:39,,,5,0.09,10,10
+●,1_R,USA\Trump,0,Trump,maxku,11-May-18 10:20:43,,,5,0.09,10,10
+●,1_R,USA\Trump,0,the FBI director,maxku,11-May-18 10:20:48,,,16,0.28,10,10
+●,1_R,Properties\Power & Strength\Powerful & Leading,0,pressed the FBI director,maxku,11-May-18 10:21:23,Trump,,24,0.42,10,10
+●,1_R,USA\Trump,0,the president,maxku,11-May-18 10:21:35,,,13,0.23,10,10
+●,1_R,USA\Trump,0,Trump,maxku,11-May-18 10:22:21,,,5,0.09,11,11
+●,1_R,Properties\Law\Lawful,0,not under investigation,maxku,11-May-18 10:22:36,Trump,,23,0.40,10,10
+●,1_R,USA\Comey,0,Comey,maxku,11-May-18 10:23:01,,,5,0.09,11,11
+●,1_R,USA\Trump,0,Trump,maxku,11-May-18 10:23:04,,,5,0.09,11,11
+●,1_R,Properties\Power & Strength\Weak & Following,0,several times asked me to find a way,maxku,11-May-18 10:23:26,Trump,,36,0.63,11,11
+●,1_R,Comey Memos,0,Comey's memos,maxku,11-May-18 10:24:10,,,13,0.23,12,12
+●,1_R,USA\Comey,0,Comey,maxku,11-May-18 10:24:20,,,5,0.09,12,12
+●,1_R,USA\Trump,0,the President,maxku,11-May-18 10:24:26,,,13,0.23,12,12
+●,1_R,Properties\Behaviour & character\Confident,0,joint statement,maxku,11-May-18 10:24:40,USA-I,,15,0.26,12,12
+●,1_R,Comey Memos,0,The memos,maxku,11-May-18 10:26:23,,,9,0.16,13,13
+●,1_R,USA\Trump,0,the 'cloud' President Trump,AnZhu,24-Mar-20 12:56:04,,,27,0.47,13,13
+●,1_R,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,"salacious, unsubstantiated allegations",maxku,11-May-18 10:26:53,Steele dossier,,38,0.67,13,13
+●,1_R,Comey Memos,0,the memos,maxku,11-May-18 10:27:36,,,9,0.16,14,14
+●,1_R,Properties\Quality\Functioning,0,further proof,maxku,11-May-18 10:27:59,Comey Memos,,13,0.23,14,14
+●,1_R,Properties\Power & Strength\Powerful & Leading,0,further proof,maxku,11-May-18 10:28:15,Comey Memos,,13,0.23,14,14
+●,1_R,Properties\Law\Unlawful,0,contempt for the rule of law,maxku,11-May-18 10:28:39,Trump,,28,0.49,14,14
+●,1_R,USA\Trump,0,Trump,maxku,11-May-18 10:28:46,,,5,0.09,14,14
+●,1_R,Properties\Violence & Unfair\Perpetrator & Aggressor (giving violence),0,attempts to intimidate,maxku,11-May-18 10:28:55,Trump,,22,0.39,15,15
+●,1_R,Properties\Law\Unlawful,0,circumvent the law,maxku,11-May-18 10:29:06,Trump,,18,0.32,15,15
+●,1_R,Properties\Law\Unlawful,0,undermine integrity of law enforcement investigations,maxku,11-May-18 10:29:18,Trump,,53,0.93,15,15
+●,1_R,Comey Memos\RUS investigation,0,law enforcement investigations,maxku,11-May-18 10:29:30,,,30,0.53,15,15
+●,1_R,Properties\Importance\Important & Intense,0,demand immediate action,maxku,11-May-18 10:29:48,Trump,,23,0.40,15,15
+●,1_R,Comey Memos\RUS investigation,0,the Mueller investigation,maxku,11-May-18 10:30:00,,,25,0.44,15,15
+●,1_R,USA\Comey,0,Comey,maxku,11-May-18 10:30:06,,,5,0.09,16,16
+●,1_R,USA\Trump,0,Trump,maxku,11-May-18 10:30:09,,,5,0.09,16,16
+●,1_R,USA\Trump,0,the president,maxku,11-May-18 10:30:16,,,13,0.23,16,16
+●,1_R,Properties\Behaviour & character\Not trustworthy,0,misleading,maxku,11-May-18 10:30:34,USA,,10,0.18,16,16
+●,1_R,USA\Comey,0,James Comey,maxku,11-May-18 10:30:47,,,11,0.19,17,17
+●,1_R,Comey Memos,0,James Comey's memos regarding interactions with President Trump,AnZhu,24-Mar-20 11:46:45,,,63,1.10,17,17
+●,1_R,USA\Trump,0,President Trump,maxku,11-May-18 10:31:00,,,15,0.26,17,17
+●,1_R,USA,0,Congress,maxku,11-May-18 10:31:05,,,8,0.14,17,17
+●,1_R,USA\Trump,0,Trump,maxku,11-May-18 10:31:35,,,5,0.09,18,18
+●,1_R,USA\Comey,0,Comey,maxku,11-May-18 10:31:39,,,5,0.09,18,18
+●,1_R,Properties\Behaviour & character\Not trustworthy,0,some satellite,maxku,11-May-18 10:32:33,USA,,14,0.25,18,18
+●,1_R,Properties\Law\Lawful,0,he hadn't done anything,maxku,11-May-18 10:33:03,Trump,,23,0.40,18,18
+●,1_R,USA\Comey,0,Comey,maxku,11-May-18 10:33:13,,,5,0.09,18,18
+●,1_R,USA\Comey,0,Comey,maxku,11-May-18 10:33:24,,,5,0.09,19,19
+●,1_R,USA\Trump,0,Trump,maxku,11-May-18 10:33:27,,,5,0.09,19,19
+●,1_R,USA\Trump,0,the president,maxku,11-May-18 10:33:34,,,13,0.23,19,19
+●,1_R,Properties\Power & Strength\Weak & Following,0,hoped I could find a way to get out,maxku,11-May-18 10:33:47,Trump,,35,0.61,19,19
+●,1_R,USA\Comey,0,Comey,maxku,11-May-18 10:34:30,,,5,0.09,20,20
+●,1_R,Properties\Quality\Functioning,0,do the work well and as quickly as we could,maxku,11-May-18 10:34:57,"Comey
+USA",,43,0.75,20,20
+●,1_R,USA\Comey,0,Comey,maxku,11-May-18 10:35:43,,,5,0.09,21,21
+●,1_R,Properties\Safety\Safe,0,never wrote that he felt obstructed or threatened,maxku,11-May-18 10:35:52,Comey,,49,0.86,21,21
+●,1_R,USA\Comey,0,Comey,maxku,11-May-18 10:36:05,,,5,0.09,21,21
+●,1_R,Properties\Quality\Bad Quality,0,never once mentioned the most relevant fact of all,maxku,11-May-18 10:36:19,Comey,,50,0.88,21,21
+●,1_R,USA\Trump,0,Trump,maxku,11-May-18 10:36:46,,,5,0.09,22,22
+●,1_R,USA\Comey,0,Comey,maxku,11-May-18 10:36:49,,,5,0.09,22,22
+●,1_R,USA\Comey,0,Comey,maxku,11-May-18 10:37:00,,,5,0.09,22,22
+●,1_R,USA\Trump,0,Trump,maxku,11-May-18 10:37:04,,,5,0.09,22,22
+●,1_R,USA\Trump,0,Trump,maxku,11-May-18 10:42:37,,,5,0.09,23,23
+●,1_R,USA\Comey,0,Comey,maxku,11-May-18 10:42:40,,,5,0.09,23,23
+●,1_R,USA\Trump,0,the president,maxku,11-May-18 10:42:47,,,13,0.23,23,23
+●,1_R,Properties\Honor & patriotic values\Honor,0,very loyal,maxku,11-May-18 10:43:09,Trump,,10,0.18,23,23
+●,1_R,Properties\Honor & patriotic values\Honor,0,very loyal,maxku,11-May-18 10:43:25,Trump,,10,0.18,23,23
+●,1_R,USA\Comey,0,Comey,maxku,11-May-18 10:43:50,,,5,0.09,24,24
+●,1_R,USA\Trump,0,Trump,maxku,11-May-18 10:43:56,,,5,0.09,24,24
+●,1_R,USA\Trump,0,the president,maxku,11-May-18 10:44:01,,,13,0.23,24,24
+●,1_R,Properties\Affection\Affection or empathy,0,great job,maxku,11-May-18 10:44:19,Comey,,9,0.16,24,24
+●,1_R,USA\Comey,0,Comey,maxku,11-May-18 10:44:38,,,5,0.09,25,25
+●,1_R,USA\Trump,0,Trump,maxku,11-May-18 10:44:43,,,5,0.09,25,25
+●,1_R,Properties\Behaviour & character\SHOWN as Not reasonable/Stupid,0,salacious allegations,maxku,11-May-18 10:45:09,Steele dossier,,21,0.37,25,25
+●,1_R,Comey Memos\Steele dossier,0,the dossier,maxku,11-May-18 10:45:24,,,11,0.19,25,25
+●,1_R,Properties\Behaviour & character\Not trustworthy,0,was a lie,maxku,11-May-18 10:45:31,Steele dossier,,9,0.16,25,25
+●,1_R,USA\Comey,0,Comey,maxku,11-May-18 10:45:42,,,5,0.09,26,26
+●,1_R,USA\Trump,0,Trump,maxku,11-May-18 10:45:47,,,5,0.09,26,26
+●,1_R,USA\Trump,0,the president,maxku,11-May-18 10:46:01,,,13,0.23,27,27
+●,1_R,Comey Memos\Steele dossier,0,the dossier,maxku,11-May-18 10:46:11,,,11,0.19,27,27
+●,1_R,USA\Comey,0,Comey,maxku,11-May-18 10:46:18,,,5,0.09,27,27
+●,1_R,Properties\Importance\Important & Intense,0,bring it up to me repeatedly,maxku,11-May-18 10:46:26,Steele dossier,,28,0.49,27,27
+●,1_R,USA\Flynn,0,Michael Flynn,maxku,17-May-18 11:17:54,,,13,0.23,16,16
+●,1_R,Comey Memos,0,classified information,AnZhu,04-Jan-19 17:26:12,,,22,0.39,5,5
+●,1_R,RUS meddling,0,no collusion with Russia in 2016,AnZhu,10-Jan-19 21:13:54,,,32,0.56,3,3
+●,1_R,RUS meddling,0,alleged collusion leading up to the 2016 election,AnZhu,10-Jan-19 21:14:19,,,49,0.86,4,4
+●,1_R,RUS meddling,0,NO COLLUSION,AnZhu,10-Jan-19 21:14:34,,,12,0.21,5,5
+●,1_R,RUS meddling,0,"collusion, coordination, and conspiracy between his campaign and Russia",AnZhu,10-Jan-19 21:15:07,,,71,1.24,12,12
+●,1_R,Comey Memos,0,redacted memos,AnZhu,10-Jan-19 21:33:41,,,14,0.25,2,2
+●,1_R,Comey Memos\Interactions with Trump,0,the conversation,AnZhu,10-Jan-19 21:42:42,,,16,0.28,9,9
+●,1_R,Comey Memos\Interactions with Trump,0,their March 30 conversation,AnZhu,10-Jan-19 21:42:52,,,27,0.47,18,18
+●,1_R,Comey Memos\Interactions with Trump,0,their conversation,AnZhu,10-Jan-19 21:43:00,,,18,0.32,19,19
+●,1_R,Comey Memos\Interactions with Trump,0,his interaction with Trump,AnZhu,10-Jan-19 21:44:19,,,26,0.46,4,4
+●,1_R,Comey Memos\Interactions with Trump,0,interactions with President Trump,AnZhu,10-Jan-19 21:44:30,,,33,0.58,17,17
+●,1_R,Comey Memos,0,the Witch Hunt,AnZhu,10-Jan-19 21:45:05,,,14,0.25,5,5
+●,1_R,Comey Memos\RUS investigation,0,investigation,AnZhu,10-Jan-19 21:52:46,,,13,0.23,22,22
+●,1_R,Comey Memos,0,"no obstruction, collusion",AnZhu,24-Mar-20 11:34:29,,,25,0.44,1,1
+●,1_R,Comey Memos,0,no collusion with Russia in 2016 and no obstruction into the investigation,AnZhu,24-Mar-20 11:35:10,,,74,1.30,3,3
+●,1_R,USA\Republicans,0,GOP lawmakers,AnZhu,24-Mar-20 11:36:03,,,13,0.23,4,4
+●,1_R,USA\Democrats,0,Many Democrats,AnZhu,24-Mar-20 11:36:17,,,14,0.25,4,4
+●,1_R,Comey Memos\Interference into RUS investigation,0,hold up the FBI's investigation into alleged collusion,AnZhu,24-Mar-20 11:37:10,,,54,0.95,4,4
+●,1_R,Comey Memos\Interference into RUS investigation,0,no obstruction into the investigation,AnZhu,24-Mar-20 11:37:25,,,37,0.65,3,3
+●,1_R,RUS meddling,0,collusion,AnZhu,24-Mar-20 11:37:44,,,9,0.16,1,1
+●,1_R,Comey Memos\Interference into RUS investigation,0,no obstruction,AnZhu,24-Mar-20 11:37:50,,,14,0.25,1,1
+●,1_R,Comey Memos,0,NO COLLUSION and NO OBSTRUCTION,AnZhu,24-Mar-20 11:38:42,,,31,0.54,5,5
+●,1_R,Comey Memos\Interference into RUS investigation,0,NO OBSTRUCTION,AnZhu,24-Mar-20 11:38:48,,,14,0.25,5,5
+●,1_R,USA\Trump,0,president,AnZhu,24-Mar-20 11:39:28,,,9,0.16,6,6
+●,1_R,Comey Memos\Interactions with Trump,0,a one-on-one dinner at the White House,AnZhu,24-Mar-20 11:39:37,,,38,0.67,6,6
+●,1_R,Comey Memos\Demand for loyalty,0,"""needed loyalty and expected loyalty.""",AnZhu,24-Mar-20 11:39:48,,,38,0.67,6,6
+●,1_R,Comey Memos\Demand for loyalty,0,need loyalty,AnZhu,24-Mar-20 11:41:37,,,12,0.21,7,7
+●,1_R,Comey Memos\Demand for loyalty,0,"wants, 'honest loyalty.'",AnZhu,24-Mar-20 11:41:50,,,24,0.42,8,8
+●,1_R,Comey Memos\Demand for loyalty,0,the subject,AnZhu,24-Mar-20 11:41:26,,,11,0.19,9,9
+●,1_R,RUS\RUS-I,0,Russian officials,AnZhu,24-Mar-20 11:42:21,,,17,0.30,10,10
+●,1_R,USA\USA-I,0,the Congressional leadership,AnZhu,24-Mar-20 11:42:45,,,28,0.49,11,11
+●,1_R,USA\Republicans\Goodlatte,0,"House Judiciary Committee Chairman Bob Goodlatte, R-Va.",AnZhu,24-Mar-20 11:43:02,,,55,0.96,12,12
+●,1_R,USA\Republicans\Gowdy,0,"House Oversight Committee Chairman Trey Gowdy, R-S.C",AnZhu,24-Mar-20 11:43:22,,,52,0.91,12,12
+●,1_R,USA\Republicans\Nunes,0,"House Intelligence Committee Chairman Devin Nunes, R-Calif.",AnZhu,24-Mar-20 11:43:28,,,59,1.03,12,12
+●,1_R,Comey Memos,0,"allegations of collusion, coordination, and conspiracy between his campaign and Russia fully investigated",AnZhu,24-Mar-20 11:43:44,,,105,1.84,12,12
+●,1_R,Comey Memos,0,"the salacious, unsubstantiated allegations related to personal conduct leveled in the dossier",AnZhu,24-Mar-20 11:44:09,,,93,1.63,13,13
+●,1_R,Comey Memos\Steele dossier,0,"the dossier""",AnZhu,24-Mar-20 11:44:20,,,12,0.21,13,13
+●,1_R,GBR\Steele,0,ex-British spy Christopher Steele,AnZhu,24-Mar-20 11:44:28,,,33,0.58,13,13
+●,1_R,USA\Democrats\Pelosi,0,"House Minority Leader Nancy Pelosi, D-Calif.,",AnZhu,24-Mar-20 11:45:04,,,45,0.79,14,14
+●,1_R,Comey Memos,0,further proof of [Trump's] contempt for the rule of law,AnZhu,24-Mar-20 11:45:22,,,55,0.96,14,14
+●,1_R,Comey Memos\Interference into RUS investigation,0,"attempts to intimidate, circumvent the law & undermine integrity of law enforcement investigations",AnZhu,24-Mar-20 11:45:34,,,98,1.72,15,15
+●,1_R,USA\Flynn,0,national security adviser,AnZhu,24-Mar-20 11:46:07,,,25,0.44,16,16
+●,1_R,USA\Pence,0,Vice President Mike Pence,AnZhu,24-Mar-20 11:46:15,,,25,0.44,16,16
+●,1_R,USA\Republicans\Goodlatte,0,Goodlatte,AnZhu,24-Mar-20 11:48:20,,,9,0.16,21,21
+●,1_R,USA\Republicans\Gowdy,0,Gowdy,AnZhu,24-Mar-20 11:48:23,,,5,0.09,21,21
+●,1_R,USA\Republicans\Nunes,0,Nunes,AnZhu,24-Mar-20 11:48:26,,,5,0.09,21,21
+●,1_R,USA\McGahn,0,White House Counsel Don McGahn,AnZhu,24-Mar-20 11:56:09,,,30,0.53,22,22
+●,1_R,USA\Boente,0,then-Acting Attorney General Dana Boente,AnZhu,24-Mar-20 11:56:15,,,40,0.70,22,22
+●,1_R,Comey Memos\Steele dossier,0,salacious allegations,AnZhu,24-Mar-20 11:58:02,,,21,0.37,25,25
+●,1_R,RUS\Kislyak,0,the Russian envoy,AnZhu,24-Mar-20 12:24:37,,,17,0.30,16,16
+●,1_R,Memos release,0,not leak in redacted memos,AnZhu,24-Mar-20 12:53:47,,,26,0.46,2,2
+●,1_R,Memos release,0,leaked classified information,AnZhu,24-Mar-20 12:54:36,,,29,0.51,5,5
+●,1_R,USA\USA-I,0,some associate of his or his campaign,AnZhu,24-Mar-20 12:57:02,,,37,0.65,18,18
+●,1_R,USA\USA-I,0,'some satellite',AnZhu,24-Mar-20 12:57:07,,,16,0.28,18,18
+●,1_RR,Comey Memos,0,Comey memos,maxku,07-May-18 08:46:57,,,11,0.56,1,1
+●,1_RR,USA\Trump,0,President Donald Trump,maxku,07-May-18 08:47:16,,,22,1.12,2,2
+●,1_RR,Comey Memos,0,James Comey Memos,maxku,07-May-18 08:49:10,,,17,0.87,3,3
+●,1_RR,USA\Trump,0,Trump,maxku,07-May-18 08:49:17,,,5,0.25,3,3
+●,1_RR,Comey Memos,0,the memos,maxku,07-May-18 08:50:24,,,9,0.46,5,5
+●,1_RR,Comey Memos,0,The 15 pages of Comey's memos,AnZhu,24-Mar-20 11:59:32,,,29,1.48,4,4
+●,1_RR,USA\Trump,0,Donald Trump,maxku,07-May-18 08:51:23,,,12,0.61,1,1
+●,1_RR,Comey Memos,0,the memos,maxku,07-May-18 08:52:18,,,9,0.46,6,6
+●,1_RR,USA\Trump,0,Trump,maxku,07-May-18 08:52:49,,,5,0.25,7,7
+●,1_RR,USA,0,Department of Justice,maxku,07-May-18 08:53:45,,,21,1.07,8,8
+●,1_RR,Comey Memos,0,these memos,maxku,07-May-18 08:54:10,,,11,0.56,8,8
+●,1_RR,Comey Memos,0,detailed memos,maxku,07-May-18 08:54:29,,,14,0.71,7,7
+●,1_RR,USA\Comey,0,Comey,maxku,07-May-18 09:07:37,,,5,0.25,1,1
+●,1_RR,USA\Comey,0,former FBI director James Comey,AnZhu,10-Jan-19 22:57:41,,,31,1.58,2,2
+●,1_RR,USA\Comey,0,James Comey,maxku,07-May-18 09:07:53,,,11,0.56,3,3
+●,1_RR,USA\Comey,0,Comey,maxku,07-May-18 09:08:09,,,5,0.25,4,4
+●,1_RR,USA\Comey,0,former Director Comey,maxku,07-May-18 09:08:30,,,21,1.07,5,5
+●,1_RR,USA\Comey,0,Comey,maxku,07-May-18 09:08:37,,,5,0.25,6,6
+●,1_RR,USA\Comey,0,Comey,maxku,07-May-18 09:09:07,,,5,0.25,7,7
+●,1_RR,Comey Memos,0,classified information,AnZhu,10-Jan-19 21:34:48,,,22,1.12,1,1
+●,1_RR,Properties\Behaviour & character\Not trustworthy,0,leaked classified information,AnZhu,08-Apr-19 19:57:08,Comey,,29,1.48,1,1
+●,1_RR,Comey Memos,0,the memos,maxku,11-May-18 10:47:12,,,9,0.46,2,2
+●,1_RR,Properties\Behaviour & character\Not trustworthy,0,leaked classified information,maxku,11-May-18 10:47:44,Comey,,29,1.48,2,2
+●,1_RR,USA\Comey,0,Former Director Comey,maxku,11-May-18 10:48:01,,,21,1.07,5,5
+●,1_RR,Properties\Safety\Safe,0,never wrote that he felt obstructed or threatened,maxku,11-May-18 10:48:07,Comey,,49,2.50,5,5
+●,1_RR,Properties\Behaviour & character\Confident,0,a joint statement,maxku,11-May-18 10:48:21,USA-I,,17,0.87,5,5
+●,1_RR,Properties\Quality\Bad Quality,0,never once mentioned the most relevant fact of all,maxku,11-May-18 10:49:23,Comey,,50,2.55,5,5
+●,1_RR,Properties\Importance\Important & Intense,0,held Trump to a different standard,maxku,11-May-18 10:50:29,Trump,,34,1.73,7,7
+●,1_RR,Properties\Quality\Functioning,0,detailed,maxku,11-May-18 10:51:09,Comey Memos,,8,0.41,7,7
+●,1_RR,USA\Trump,0,Trump,maxku,11-May-18 10:51:24,,,5,0.25,7,7
+●,1_RR,Properties\Quality\Bad Quality,0,failing,maxku,11-May-18 10:51:47,Comey,,7,0.36,7,7
+●,1_RR,USA\Comey,0,Former Director Comey,maxku,11-May-18 10:51:57,,,21,1.07,8,8
+●,1_RR,Properties\Power & Strength\Powerful & Leading,0,spurring the appointment,maxku,11-May-18 10:52:25,Comey,,24,1.22,8,8
+●,1_RR,Properties\Power & Strength\Weak & Following,0,took no steps,maxku,11-May-18 10:53:11,Comey,,13,0.66,8,8
+●,1_RR,Comey Memos,0,classified information,AnZhu,04-Jan-19 17:27:03,,,22,1.12,2,2
+●,1_RR,Comey Memos,0,classified information,AnZhu,04-Jan-19 17:27:56,,,22,1.12,3,3
+●,1_RR,Comey Memos,0,classified information,AnZhu,04-Jan-19 17:28:45,,,22,1.12,6,6
+●,1_RR,Comey Memos\Interactions with Trump,0,his conversations with Trump,AnZhu,10-Jan-19 21:43:16,,,28,1.43,7,7
+●,1_RR,Comey Memos,0,the Witch Hunt,AnZhu,24-Mar-20 11:59:25,,,14,0.71,3,3
+●,1_RR,Comey Memos\RUS investigation,0,the Russian investigation,AnZhu,10-Jan-19 21:53:04,,,25,1.27,6,6
+●,1_RR,USA\Comey,0,the former FBI director,AnZhu,10-Jan-19 22:57:18,,,23,1.17,4,4
+●,1_RR,Comey Memos,0,NO COLLUSION and NO OBSTRUCTION,AnZhu,24-Mar-20 11:59:14,,,31,1.58,3,3
+●,1_RR,USA\Republicans\Goodlatte,0,House Judiciary Chairman Bob Goodlatte,AnZhu,24-Mar-20 11:59:50,,,38,1.94,5,5
+●,1_RR,USA\Republicans\Nunes,0,House Intelligence Chairman Devin Nunes,AnZhu,24-Mar-20 12:00:13,,,39,1.99,5,5
+●,1_RR,USA\Republicans\Gowdy,0,House Oversight Chairman Trey Gowdy,AnZhu,24-Mar-20 12:00:19,,,35,1.78,5,5
+●,1_RR,Memos release,0,leaked classified information,AnZhu,24-Mar-20 12:01:45,,,29,1.48,1,1
+●,1_RR,Memos release,0,leaked classified information,AnZhu,24-Mar-20 12:01:56,,,29,1.48,2,2
+●,1_RR,Memos release,0,just out,AnZhu,24-Mar-20 12:02:08,,,8,0.41,3,3
+●,1_RR,Memos release,0,leaked classified information,AnZhu,24-Mar-20 12:02:16,,,29,1.48,3,3
+●,1_RR,Memos release,0,were released,AnZhu,24-Mar-20 12:02:30,,,13,0.66,4,4
+●,1_RR,USA\Republicans,0,Republican Congressional intelligence officials,AnZhu,24-Mar-20 12:02:45,,,47,2.40,4,4
+●,1_RR,Memos release,0,the declassified release of the memos,AnZhu,24-Mar-20 12:03:03,,,37,1.89,5,5
+●,1_RR,Memos release,0,the memos' declassification,AnZhu,24-Mar-20 12:03:15,,,27,1.38,6,6
+●,1_RR,Memos release,0,leaked classified information to a private citizen,AnZhu,24-Mar-20 12:03:38,,,50,2.55,6,6
+●,1_RR,USA\Mueller,0,a special prosecutor of the Russian investigation,AnZhu,24-Mar-20 12:03:58,,,49,2.50,6,6
+●,1_RR,USA\Republicans,0,The Republican officials,AnZhu,24-Mar-20 12:04:12,,,24,1.22,7,7
+●,1_RR,USA\Democrats,0,Democrats,AnZhu,24-Mar-20 12:04:48,,,9,0.46,7,7
+●,1_RR,Memos release,0,leaked at least one of these memos,AnZhu,24-Mar-20 12:05:00,,,34,1.73,8,8
+●,1_RR,USA\Lynch,0,Attorney General Loretta Lynch,AnZhu,24-Mar-20 12:05:44,,,30,1.53,8,8
+●,1_RR,USA\Mueller,0,"Special Counsel,",AnZhu,24-Mar-20 12:32:06,,,16,0.82,8,8
+●,1_RR,USA\Mueller,0,Special Counsel,AnZhu,24-Mar-20 12:32:23,,,15,0.76,8,8
+●,1_RR,USA\USA-Misc,0,a private citizen,AnZhu,24-Mar-20 13:06:29,,,17,0.87,6,6

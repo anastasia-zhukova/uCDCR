@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE markables SYSTEM "markables.dtd">
+<markables xmlns="www.eml.org/NameSpaces/sentence">
+<markable id="markable_1" span="word_1..word_10" mmax_level="sentence"/>
+<markable id="markable_3" span="word_11..word_18" mmax_level="sentence"/>
+<markable id="markable_4" span="word_19..word_20" mmax_level="sentence"/>
+<markable id="markable_6" span="word_21..word_22" mmax_level="sentence"/>
+<markable id="markable_8" span="word_23..word_53" mmax_level="sentence"/>
+<markable id="markable_10" span="word_54..word_80" mmax_level="sentence"/>
+<markable id="markable_12" span="word_81..word_90" mmax_level="sentence"/>
+<markable id="markable_14" span="word_91..word_117" mmax_level="sentence"/>
+<markable id="markable_16" span="word_118..word_137" mmax_level="sentence"/>
+<markable id="markable_18" span="word_138..word_186" mmax_level="sentence"/>
+<markable id="markable_20" span="word_187..word_209" mmax_level="sentence"/>
+<markable id="markable_22" span="word_210..word_238" mmax_level="sentence"/>
+<markable id="markable_24" span="word_239..word_264" mmax_level="sentence"/>
+<markable id="markable_26" span="word_265..word_288" mmax_level="sentence"/>
+<markable id="markable_28" span="word_289..word_327" mmax_level="sentence"/>
+<markable id="markable_30" span="word_328..word_357" mmax_level="sentence"/>
+<markable id="markable_32" span="word_358..word_378" mmax_level="sentence"/>
+<markable id="markable_34" span="word_379..word_394" mmax_level="sentence"/>
+<markable id="markable_36" span="word_395..word_415" mmax_level="sentence"/>
+<markable id="markable_37" span="word_416..word_430" mmax_level="sentence"/>
+<markable id="markable_39" span="word_431..word_491" mmax_level="sentence"/>
+<markable id="markable_41" span="word_492..word_515" mmax_level="sentence"/>
+<markable id="markable_42" span="word_516..word_528" mmax_level="sentence"/>
+<markable id="markable_44" span="word_529..word_560" mmax_level="sentence"/>
+<markable id="markable_45" span="word_561..word_576" mmax_level="sentence"/>
+</markables>

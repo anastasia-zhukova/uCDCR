@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotationscheme>
+<attribute id="ducid_level" name="ducid" type="freetext">
+<value id="ducid_level_value" name="ducid"/>
+</attribute>
+<attribute id="docid_level" name="docid" type="freetext">
+<value id="docid_level_value" name="docid"/>
+</attribute>
+<attribute id="imported_tag_type_level" name="imported_tag_type" type="freetext">
+<value id="imported_tag_type_level_value" name="imported_tag_type"/>
+</attribute>
+</annotationscheme>

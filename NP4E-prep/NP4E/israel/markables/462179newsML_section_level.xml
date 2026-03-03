@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE markables SYSTEM "markables.dtd">
+<markables xmlns="www.eml.org/NameSpaces/section">
+<markable id="markable_2" span="word_1..word_11" mmax_level="section"/>
+<markable id="markable_4" span="word_12..word_20" mmax_level="section"/>
+<markable id="markable_6" span="word_21..word_22" mmax_level="section"/>
+<markable id="markable_8" span="word_23..word_45" mmax_level="section"/>
+<markable id="markable_10" span="word_46..word_109" mmax_level="section"/>
+<markable id="markable_12" span="word_110..word_156" mmax_level="section"/>
+<markable id="markable_14" span="word_157..word_198" mmax_level="section"/>
+<markable id="markable_16" span="word_199..word_254" mmax_level="section"/>
+<markable id="markable_18" span="word_255..word_288" mmax_level="section"/>
+<markable id="markable_20" span="word_289..word_323" mmax_level="section"/>
+<markable id="markable_22" span="word_324..word_356" mmax_level="section"/>
+<markable id="markable_24" span="word_357..word_398" mmax_level="section"/>
+<markable id="markable_27" span="word_399..word_439" mmax_level="section"/>
+<markable id="markable_30" span="word_440..word_474" mmax_level="section"/>
+<markable id="markable_32" span="word_475..word_495" mmax_level="section"/>
+<markable id="markable_34" span="word_496..word_528" mmax_level="section"/>
+<markable id="markable_37" span="word_529..word_584" mmax_level="section"/>
+<markable id="markable_41" span="word_585..word_625" mmax_level="section"/>
+</markables>

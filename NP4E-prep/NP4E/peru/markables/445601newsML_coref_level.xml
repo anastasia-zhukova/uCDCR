@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE markables SYSTEM "markables.dtd">
+<markables xmlns="www.eml.org/NameSpaces/coref">
+<markable id="markable_1" span="word_12" mmax_level="coref" coref_set="set_2"/>
+<markable id="markable_2" span="word_14" mmax_level="coref" coref_set="set_3"/>
+<markable id="markable_3" span="word_18..word_19" mmax_level="coref" coref_set="set_0"/>
+<markable id="markable_7" span="word_28" mmax_level="coref" coref_set="set_24"/>
+<markable id="markable_6" span="word_28..word_32" mmax_level="coref" coref_set="set_0" dir_antecedent="markable_3"/>
+<markable id="markable_5" span="word_25..word_32" mmax_level="coref" coref_set="set_5"/>
+<markable id="markable_9" span="word_42..word_44" mmax_level="coref" coref_set="set_3" dir_antecedent="markable_2"/>
+<markable id="markable_11" span="word_51..word_52" mmax_level="coref" coref_set="set_11"/>
+<markable id="markable_12" span="word_54..word_58" mmax_level="coref" coref_set="set_4"/>
+<markable id="markable_10" span="word_47..word_58" mmax_level="coref" coref_set="set_2" dir_antecedent="markable_1" min_ids="word_47..word_52"/>
+<markable id="markable_16" span="word_67..word_75" mmax_level="coref" coref_set="set_3" dir_antecedent="markable_15"/>
+<markable id="markable_15" span="word_60..word_75" mmax_level="coref" coref_set="set_3" dir_antecedent="markable_2" min_ids="word_60"/>
+<markable id="markable_21" span="word_78..word_79" mmax_level="coref" coref_set="set_2" dir_antecedent="markable_1"/>
+<markable id="markable_22" span="word_81..word_83" mmax_level="coref" coref_set="set_4" dir_antecedent="markable_12"/>
+<markable id="markable_23" span="word_88" mmax_level="coref" coref_set="set_14"/>
+<markable id="markable_24" span="word_90" mmax_level="coref" coref_set="set_3" dir_antecedent="markable_2"/>
+<markable id="markable_30" span="word_109..word_110" mmax_level="coref" coref_set="set_2" dir_antecedent="markable_1"/>
+<markable id="markable_33" span="word_121" mmax_level="coref" coref_set="set_5" dir_antecedent="markable_5"/>
+<markable id="markable_37" span="word_138..word_139" mmax_level="coref" coref_set="set_27"/>
+<markable id="markable_38" span="word_141" mmax_level="coref" coref_set="set_2" dir_antecedent="markable_1"/>
+<markable id="markable_40" span="word_154" mmax_level="coref" coref_set="set_21"/>
+<markable id="markable_45" span="word_164" mmax_level="coref" coref_set="set_10"/>
+<markable id="markable_44" span="word_164..word_168" mmax_level="coref" coref_set="set_6"/>
+<markable id="markable_50" span="word_177..word_178" mmax_level="coref" coref_set="set_2" dir_antecedent="markable_1"/>
+<markable id="markable_49" span="word_175..word_178" mmax_level="coref" coref_set="set_7" min_ids="word_175"/>
+<markable id="markable_51" span="word_180..word_181" mmax_level="coref" coref_set="set_6" dir_antecedent="markable_44"/>
+<markable id="markable_52" span="word_183" mmax_level="coref" coref_set="set_7" dir_antecedent="markable_49"/>
+<markable id="markable_53" span="word_185" mmax_level="coref" coref_set="set_8" dir_antecedent="markable_48"/>
+<markable id="markable_48" span="word_173..word_185" mmax_level="coref" coref_set="set_8" min_ids="word_173"/>
+<markable id="markable_60" span="word_207" mmax_level="coref" coref_set="set_9" dir_antecedent="markable_57"/>
+<markable id="markable_57" span="word_196..word_213" mmax_level="coref" coref_set="set_9" min_ids="word_196..word_200"/>
+<markable id="markable_64" span="word_219" mmax_level="coref" coref_set="set_10" dir_antecedent="markable_45"/>
+<markable id="markable_66" span="word_224..word_226" mmax_level="coref" coref_set="set_2" dir_antecedent="markable_1"/>
+<markable id="markable_73" span="word_248..word_256" mmax_level="coref" coref_set="set_2" dir_antecedent="markable_1"/>
+<markable id="markable_75" span="word_261..word_263" mmax_level="coref" coref_set="set_29"/>
+<markable id="markable_78" span="word_271..word_272" mmax_level="coref" coref_set="set_11" dir_antecedent="markable_11"/>
+<markable id="markable_74" span="word_259..word_272" mmax_level="coref" coref_set="set_30" min_ids="word_259"/>
+<markable id="markable_72" span="word_243..word_272" mmax_level="coref" coref_set="set_4" dir_antecedent="markable_12"/>
+<markable id="markable_80" span="word_279..word_280" mmax_level="coref" coref_set="set_4" dir_antecedent="markable_12"/>
+<markable id="markable_81" span="word_282..word_283" mmax_level="coref" coref_set="set_2" dir_antecedent="markable_1"/>
+<markable id="markable_79" span="word_274..word_288" mmax_level="coref" coref_set="set_12" min_ids="word_274..word_277"/>
+<markable id="markable_87" span="word_307..word_311" mmax_level="coref" coref_set="set_4" dir_antecedent="markable_12"/>
+<markable id="markable_88" span="word_313" mmax_level="coref" coref_set="set_12" dir_antecedent="markable_79"/>
+<markable id="markable_89" span="word_316..word_319" mmax_level="coref" coref_set="set_13" min_ids="word_316"/>
+<markable id="markable_94" span="word_330..word_331" mmax_level="coref" coref_set="set_13" dir_antecedent="markable_89"/>
+<markable id="markable_97" span="word_345" mmax_level="coref" coref_set="set_14" dir_antecedent="markable_23"/>
+<markable id="markable_101" span="word_350" mmax_level="coref" coref_set="set_15" dir_antecedent="markable_99"/>
+<markable id="markable_99" span="word_347..word_352" mmax_level="coref" coref_set="set_15" min_ids="word_347..word_345"/>
+<markable id="markable_102" span="word_355..word_358" mmax_level="coref" coref_set="set_16"/>
+<markable id="markable_105" span="word_369..word_370" mmax_level="coref" coref_set="set_16" dir_antecedent="markable_102"/>
+<markable id="markable_106" span="word_373..word_375" mmax_level="coref" coref_set="set_17"/>
+<markable id="markable_108" span="word_382..word_383" mmax_level="coref" coref_set="set_17" dir_antecedent="markable_106"/>
+<markable id="markable_109" span="word_385" mmax_level="coref" coref_set="set_18"/>
+<markable id="markable_110" span="word_388..word_389" mmax_level="coref" coref_set="set_19"/>
+<markable id="markable_112" span="word_394" mmax_level="coref" coref_set="set_23"/>
+<markable id="markable_113" span="word_398" mmax_level="coref" coref_set="set_18" dir_antecedent="markable_109"/>
+<markable id="markable_114" span="word_405" mmax_level="coref" coref_set="set_19" dir_antecedent="markable_110"/>
+<markable id="markable_117" span="word_417" mmax_level="coref" coref_set="set_20" dir_antecedent="markable_116"/>
+<markable id="markable_116" span="word_412..word_420" mmax_level="coref" coref_set="set_20" min_ids="word_412..word_418"/>
+<markable id="markable_119" span="word_423..word_424" mmax_level="coref" coref_set="set_19" dir_antecedent="markable_110"/>
+<markable id="markable_120" span="word_429" mmax_level="coref" coref_set="set_18" dir_antecedent="markable_113"/>
+<markable id="markable_122" span="word_435" mmax_level="coref" coref_set="set_19" dir_antecedent="markable_119"/>
+<markable id="markable_123" span="word_437" mmax_level="coref" coref_set="set_18" dir_antecedent="markable_120"/>
+<markable id="markable_131" span="word_461" mmax_level="coref" coref_set="set_21" dir_antecedent="markable_40"/>
+<markable id="markable_129" span="word_458..word_465" mmax_level="coref" coref_set="set_16" dir_antecedent="markable_102" min_ids="word_458..word_459"/>
+<markable id="markable_128" span="word_455..word_465" mmax_level="coref" coref_set="set_22" min_ids="word_455..word_456"/>
+<markable id="markable_132" span="word_467" mmax_level="coref" coref_set="set_22" dir_antecedent="markable_128"/>
+<markable id="markable_133" span="word_469..word_470" mmax_level="coref" coref_set="set_15" dir_antecedent="markable_99"/>
+<markable id="markable_134" span="word_474" mmax_level="coref" coref_set="set_22" dir_antecedent="markable_128"/>
+<markable id="markable_135" span="word_477" mmax_level="coref" coref_set="set_22" dir_antecedent="markable_128"/>
+<markable id="markable_139" span="word_488" mmax_level="coref" coref_set="set_23" dir_antecedent="markable_112"/>
+<markable id="markable_140" span="word_490..word_491" mmax_level="coref" coref_set="set_19" dir_antecedent="markable_110"/>
+<markable id="markable_143" span="word_496" mmax_level="coref" coref_set="set_24" dir_antecedent="markable_7"/>
+<markable id="markable_142" span="word_493..word_496" mmax_level="coref" coref_set="set_25" min_ids="word_493..word_494"/>
+<markable id="markable_144" span="word_503" mmax_level="coref" coref_set="set_25" dir_antecedent="markable_142"/>
+<markable id="markable_150" span="word_517" mmax_level="coref" coref_set="set_25" dir_antecedent="markable_142"/>
+<markable id="markable_151" span="word_520" mmax_level="coref" coref_set="set_9" dir_antecedent="markable_57"/>
+<markable id="markable_155" span="word_536..word_537" mmax_level="coref" coref_set="set_28"/>
+<markable id="markable_156" span="word_539" mmax_level="coref" coref_set="set_14" dir_antecedent="markable_23"/>
+<markable id="markable_154" span="word_528..word_539" mmax_level="coref" coref_set="set_26" min_ids="word_528..word_537"/>
+<markable id="markable_159" span="word_549" mmax_level="coref" coref_set="set_26" dir_antecedent="markable_161"/>
+<markable id="markable_161" span="word_558" mmax_level="coref" coref_set="set_26" dir_antecedent="markable_154"/>
+<markable id="markable_164" span="word_568" mmax_level="coref" coref_set="set_26" dir_antecedent="markable_161"/>
+<markable id="markable_165" span="word_571..word_573" mmax_level="coref" coref_set="set_27" dir_antecedent="markable_37"/>
+<markable id="markable_167" span="word_580" mmax_level="coref" coref_set="set_9" dir_antecedent="markable_57"/>
+<markable id="markable_169" span="word_582" mmax_level="coref" coref_set="set_9" dir_antecedent="markable_57"/>
+<markable id="markable_170" span="word_586" mmax_level="coref" coref_set="set_28" dir_antecedent="markable_155"/>
+<markable id="markable_172" span="word_593..word_595" mmax_level="coref" coref_set="set_0" dir_antecedent="markable_3"/>
+<markable id="markable_178" span="word_615" mmax_level="coref" coref_set="set_29" dir_antecedent="markable_176"/>
+<markable id="markable_177" span="word_615..word_616" mmax_level="coref" coref_set="set_30" dir_antecedent="markable_74"/>
+<markable id="markable_179" span="word_621" mmax_level="coref" coref_set="set_23" dir_antecedent="markable_112"/>
+<markable id="markable_176" span="word_611..word_621" mmax_level="coref" coref_set="set_29" dir_antecedent="markable_75" min_ids="word_611..word_618"/>
+<markable id="markable_184" span="word_638..word_639" mmax_level="coref" coref_set="set_4" dir_antecedent="markable_12"/>
+<markable id="markable_185" span="word_641..word_646" mmax_level="coref" coref_set="set_31"/>
+<markable id="markable_188" span="word_654..word_655" mmax_level="coref" coref_set="set_2" dir_antecedent="markable_1"/>
+<markable id="markable_186" span="word_649..word_662" mmax_level="coref" coref_set="set_32" min_ids="word_649..word_650"/>
+<markable id="markable_190" span="word_664" mmax_level="coref" coref_set="set_9" dir_antecedent="markable_57"/>
+<markable id="markable_191" span="word_668..word_669" mmax_level="coref" coref_set="set_31" dir_antecedent="markable_185"/>
+<markable id="markable_192" span="word_671" mmax_level="coref" coref_set="set_33"/>
+<markable id="markable_282" span="word_675" mmax_level="coref" coref_set="set_31" dir_antecedent="markable_185"/>
+<markable id="markable_193" span="word_673..word_675" mmax_level="coref" coref_set="set_31" dir_antecedent="markable_185"/>
+<markable id="markable_196" span="word_688..word_690" mmax_level="coref" coref_set="set_32" dir_antecedent="markable_186"/>
+<markable id="markable_198" span="word_696" mmax_level="coref" coref_set="set_9" dir_antecedent="markable_57"/>
+<markable id="markable_200" span="word_703..word_705" mmax_level="coref" coref_set="set_33" dir_antecedent="markable_192"/>
+<markable id="markable_201" span="word_709" mmax_level="coref" coref_set="set_9" dir_antecedent="markable_57"/>
+<markable id="markable_203" span="word_714..word_715" mmax_level="coref" coref_set="set_32" dir_antecedent="markable_186"/>
+<markable id="markable_205" span="word_720..word_721" mmax_level="coref" coref_set="set_2" dir_antecedent="markable_1"/>
+<markable id="markable_204" span="word_718..word_721" mmax_level="coref" coref_set="set_34" min_ids="word_718"/>
+<markable id="markable_207" span="word_730" mmax_level="coref" coref_set="set_28" dir_antecedent="markable_155"/>
+<markable id="markable_208" span="word_733..word_734" mmax_level="coref" coref_set="set_34" dir_antecedent="markable_204"/>
+<markable id="markable_210" span="word_736" mmax_level="coref" coref_set="set_34" dir_antecedent="markable_204"/>
+<markable id="markable_212" span="word_739" mmax_level="coref" coref_set="set_31" dir_antecedent="markable_185"/>
+</markables>
